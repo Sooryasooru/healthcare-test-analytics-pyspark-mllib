@@ -1,0 +1,501 @@
+ReportID,PatientID,TestType,ResultValue,Doctor,ReportDate,Hospital,Age,Gender,Name,City,Contact,Department,TestStatus,TestDate,AbnormalResult
+52,1,X-Ray,76.11,Dr. Patel,2025-03-09,AIIMS,79,Female,Patient_1,Pune,9116115227,Radiology,Completed,2024-02-02,0
+93,2,ECG,169.68,Dr. Lee,2025-05-10,Medanta,44,Other,Patient_2,Pune,9779246154,Pediatrics,Completed,2025-06-15,1
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,Apollo Hospital,53,Male,Patient_3,Mumbai,9175920228,Oncology,Pending,2024-03-25,1
+72,4,Urine Test,55.7,Dr. Smith,2025-03-27,Max Hospital,64,Male,Patient_4,Pune,9388575018,Orthopedics,Completed,2024-01-26,0
+61,5,ECG,143.38,Dr. Johnson,2025-03-09,Fortis Healthcare,41,Other,Patient_5,Pune,9154977728,Neurology,Completed,2025-07-15,1
+21,6,X-Ray,49.7,Dr. Lee,2025-05-30,AIIMS,53,Female,Patient_6,Kolkata,9781527371,Oncology,Pending,2024-04-08,0
+83,7,Urine Test,94.4,Dr. Johnson,2025-04-28,Medanta,55,Other,Patient_7,Chennai,9211843334,Pediatrics,Completed,2022-11-15,0
+87,8,MRI,187.88,Dr. Smith,2025-03-08,Fortis Healthcare,23,Female,Patient_8,Pune,9625770453,Pathology,Completed,2025-08-23,1
+75,9,ECG,180.83,Dr. Smith,2025-04-05,Medanta,20,Other,Patient_9,Pune,9433165387,Neurology,Pending,2022-07-31,1
+75,10,ECG,180.83,Dr. Smith,2025-04-05,Medanta,55,Female,Patient_10,Bangalore,9619478273,Oncology,Pending,2024-09-08,1
+88,11,Ultrasound,192.53,Dr. Lee,2025-01-10,Apollo Hospital,47,Female,Patient_11,Kolkata,9545665101,Orthopedics,Completed,2022-08-07,1
+100,12,MRI,103.33,Dr. Lee,2025-01-24,Manipal Hospital,26,Male,Patient_12,Chennai,9447599375,Pathology,Pending,2022-07-28,1
+24,13,ECG,32.42,Dr. Patel,2025-06-02,Max Hospital,66,Male,Patient_13,Bangalore,9577434561,Radiology,Pending,2024-10-22,0
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Apollo Hospital,55,Female,Patient_14,Kolkata,9657583192,Cardiology,Pending,2023-07-20,0
+22,15,Ultrasound,80.18,Dr. Johnson,2025-02-05,Fortis Healthcare,31,Other,Patient_15,Hyderabad,9906389625,Orthopedics,Completed,2023-03-29,0
+53,16,MRI,84.89,Dr. Patel,2025-02-09,AIIMS,29,Female,Patient_16,Mumbai,9919250075,Pathology,Completed,2023-12-24,0
+2,17,ECG,20.95,Dr. Smith,2025-06-01,Max Hospital,21,Male,Patient_17,Delhi,9540340266,Orthopedics,Pending,2023-04-28,0
+88,18,Ultrasound,192.53,Dr. Lee,2025-01-10,Manipal Hospital,29,Other,Patient_18,Hyderabad,9465192181,Pathology,Completed,2023-02-08,1
+30,19,Ultrasound,182.57,Dr. Lee,2025-06-13,Fortis Healthcare,53,Male,Patient_19,Kolkata,9440795660,Oncology,Completed,2023-05-10,1
+38,20,ECG,130.15,Dr. Patel,2025-05-13,Medanta,33,Male,Patient_20,Chennai,9502317622,Cardiology,Completed,2022-08-11,1
+2,21,ECG,20.95,Dr. Smith,2025-06-01,AIIMS,42,Other,Patient_21,Hyderabad,9880245723,Orthopedics,Completed,2023-11-05,0
+64,22,Ultrasound,199.22,Dr. Smith,2025-05-18,Apollo Hospital,55,Other,Patient_22,Pune,9465963140,Cardiology,Completed,2025-02-22,1
+60,23,CT Scan,131.65,Dr. Lee,2025-03-08,Manipal Hospital,36,Female,Patient_23,Chennai,9820264062,Oncology,Completed,2025-05-19,1
+21,24,X-Ray,49.7,Dr. Lee,2025-05-30,Manipal Hospital,76,Male,Patient_24,Chennai,9970339843,Neurology,Completed,2023-04-11,0
+33,25,CT Scan,4.39,Dr. Lee,2025-03-20,Max Hospital,50,Female,Patient_25,Chennai,9762596044,Cardiology,Completed,2023-09-18,0
+76,26,Ultrasound,30.04,Dr. Johnson,2025-01-11,Max Hospital,31,Other,Patient_26,Pune,9806212879,Radiology,Pending,2025-09-06,0
+58,27,ECG,172.43,Dr. Patel,2025-01-31,AIIMS,55,Other,Patient_27,Kolkata,9829986894,Cardiology,Pending,2024-11-12,1
+22,28,Ultrasound,80.18,Dr. Johnson,2025-02-05,Max Hospital,73,Other,Patient_28,Bangalore,9165795613,Pathology,Pending,2025-09-04,0
+89,29,Ultrasound,87.2,Dr. Lee,2025-04-22,Fortis Healthcare,59,Male,Patient_29,Mumbai,9714844670,Pediatrics,Pending,2025-01-24,0
+49,30,Urine Test,172.34,Dr. Smith,2025-01-13,Manipal Hospital,43,Male,Patient_30,Kolkata,9929534705,Radiology,Pending,2024-12-06,1
+91,31,ECG,87.49,Dr. Johnson,2025-04-04,Apollo Hospital,40,Female,Patient_31,Bangalore,9482438613,Oncology,Completed,2022-02-11,0
+59,32,X-Ray,115.99,Dr. Smith,2025-06-08,Apollo Hospital,72,Other,Patient_32,Kolkata,9774663170,Oncology,Pending,2022-10-08,1
+42,33,Urine Test,66.42,Dr. Johnson,2025-03-13,AIIMS,48,Other,Patient_33,Pune,9397960010,Cardiology,Completed,2023-04-16,0
+92,34,Blood Test,189.8,Dr. Lee,2025-06-09,Apollo Hospital,27,Female,Patient_34,Hyderabad,9654167814,Neurology,Pending,2022-12-02,1
+60,35,CT Scan,131.65,Dr. Lee,2025-03-08,Medanta,46,Male,Patient_35,Pune,9494307881,Neurology,Pending,2022-12-23,1
+80,36,Urine Test,162.25,Dr. Patel,2025-01-07,Manipal Hospital,37,Female,Patient_36,Hyderabad,9960104085,Orthopedics,Completed,2022-05-19,1
+15,37,Ultrasound,127.18,Dr. Johnson,2025-02-11,Max Hospital,76,Other,Patient_37,Mumbai,9197454267,Pediatrics,Completed,2022-08-12,1
+62,38,X-Ray,134.5,Dr. Lee,2025-04-28,Medanta,49,Other,Patient_38,Chennai,9310022083,Neurology,Pending,2023-02-27,1
+62,39,X-Ray,134.5,Dr. Lee,2025-04-28,Apollo Hospital,34,Other,Patient_39,Hyderabad,9118964165,Pathology,Pending,2022-10-25,1
+47,40,X-Ray,38.45,Dr. Patel,2025-02-05,Max Hospital,57,Female,Patient_40,Kolkata,9790814786,Neurology,Completed,2022-08-20,0
+62,41,X-Ray,134.5,Dr. Lee,2025-04-28,AIIMS,67,Other,Patient_41,Pune,9272498394,Oncology,Completed,2024-10-11,1
+51,42,CT Scan,97.39,Dr. Johnson,2025-04-13,Medanta,22,Male,Patient_42,Pune,9177167285,Cardiology,Completed,2022-04-20,0
+55,43,Blood Test,149.72,Dr. Smith,2025-01-13,Medanta,40,Other,Patient_43,Delhi,9112180653,Pathology,Completed,2025-07-21,1
+64,44,Ultrasound,199.22,Dr. Smith,2025-05-18,AIIMS,53,Female,Patient_44,Bangalore,9774107515,Neurology,Completed,2022-03-05,1
+3,45,Blood Test,6.44,Dr. Johnson,2025-03-01,Max Hospital,31,Female,Patient_45,Bangalore,9653657373,Orthopedics,Pending,2025-04-29,0
+51,46,CT Scan,97.39,Dr. Johnson,2025-04-13,Max Hospital,24,Female,Patient_46,Kolkata,9296612242,Orthopedics,Completed,2023-01-19,0
+7,47,Urine Test,67.65,Dr. Smith,2025-04-08,Medanta,62,Male,Patient_47,Chennai,9557768910,Cardiology,Pending,2022-07-24,0
+21,48,X-Ray,49.7,Dr. Lee,2025-05-30,Apollo Hospital,53,Other,Patient_48,Bangalore,9548688173,Neurology,Pending,2025-02-19,0
+73,49,ECG,195.97,Dr. Johnson,2025-04-24,Fortis Healthcare,32,Male,Patient_49,Pune,9678814214,Radiology,Pending,2023-05-19,1
+39,50,Blood Test,49.96,Dr. Smith,2025-03-28,Medanta,35,Male,Patient_50,Hyderabad,9667065841,Neurology,Completed,2022-09-19,0
+18,51,Urine Test,63.43,Dr. Lee,2025-01-17,Max Hospital,78,Female,Patient_51,Chennai,9814022911,Cardiology,Pending,2022-10-30,0
+4,52,Ultrasound,5.79,Dr. Johnson,2025-06-16,Manipal Hospital,45,Other,Patient_52,Delhi,9779441211,Orthopedics,Completed,2025-05-11,0
+89,53,Ultrasound,87.2,Dr. Lee,2025-04-22,Max Hospital,42,Male,Patient_53,Pune,9862957086,Pathology,Completed,2022-01-24,0
+60,54,CT Scan,131.65,Dr. Lee,2025-03-08,AIIMS,41,Other,Patient_54,Hyderabad,9603232651,Neurology,Pending,2024-12-13,1
+14,55,MRI,42.3,Dr. Lee,2025-06-29,Max Hospital,34,Other,Patient_55,Bangalore,9542675505,Oncology,Completed,2025-06-02,0
+9,56,Ultrasound,25.4,Dr. Patel,2025-01-21,AIIMS,45,Other,Patient_56,Chennai,9336579398,Neurology,Completed,2025-09-14,0
+90,57,Ultrasound,23.57,Dr. Johnson,2025-03-07,Max Hospital,49,Male,Patient_57,Kolkata,9755341677,Orthopedics,Completed,2024-12-30,0
+53,58,MRI,84.89,Dr. Patel,2025-02-09,Max Hospital,51,Other,Patient_58,Hyderabad,9655506184,Pediatrics,Pending,2024-01-02,0
+2,59,ECG,20.95,Dr. Smith,2025-06-01,Fortis Healthcare,78,Female,Patient_59,Chennai,9190861389,Oncology,Completed,2023-10-26,0
+84,60,MRI,164.2,Dr. Johnson,2025-02-27,Manipal Hospital,38,Male,Patient_60,Chennai,9785328691,Pathology,Pending,2022-04-07,1
+92,61,Blood Test,189.8,Dr. Lee,2025-06-09,Apollo Hospital,68,Female,Patient_61,Kolkata,9157557144,Oncology,Completed,2025-09-05,1
+60,62,CT Scan,131.65,Dr. Lee,2025-03-08,Fortis Healthcare,54,Male,Patient_62,Bangalore,9307550397,Cardiology,Pending,2024-11-30,1
+71,63,Ultrasound,97.96,Dr. Smith,2025-01-24,Medanta,45,Female,Patient_63,Delhi,9291944348,Pediatrics,Completed,2025-07-23,0
+44,64,Urine Test,81.71,Dr. Smith,2025-01-25,Fortis Healthcare,74,Female,Patient_64,Hyderabad,9727045418,Pathology,Pending,2023-12-14,0
+8,65,MRI,169.58,Dr. Lee,2025-01-12,Medanta,38,Female,Patient_65,Mumbai,9937000904,Pediatrics,Pending,2023-01-28,1
+47,66,X-Ray,38.45,Dr. Patel,2025-02-05,Max Hospital,59,Other,Patient_66,Mumbai,9847542349,Cardiology,Pending,2022-06-09,0
+35,67,Urine Test,14.31,Dr. Johnson,2025-02-02,Max Hospital,20,Other,Patient_67,Chennai,9728961771,Oncology,Completed,2025-08-24,0
+78,68,ECG,50.28,Dr. Smith,2025-04-01,Max Hospital,41,Male,Patient_68,Chennai,9241291782,Orthopedics,Completed,2022-07-24,0
+81,69,ECG,184.94,Dr. Patel,2025-06-21,Apollo Hospital,38,Female,Patient_69,Bangalore,9699226872,Radiology,Completed,2022-07-30,1
+36,70,Ultrasound,33.44,Dr. Patel,2025-02-24,Manipal Hospital,70,Male,Patient_70,Delhi,9696520228,Pathology,Completed,2023-07-14,0
+50,71,Urine Test,3.44,Dr. Smith,2025-03-02,Fortis Healthcare,30,Other,Patient_71,Chennai,9662866780,Radiology,Completed,2025-03-09,0
+4,72,Ultrasound,5.79,Dr. Johnson,2025-06-16,Manipal Hospital,42,Male,Patient_72,Pune,9859033474,Orthopedics,Completed,2025-01-31,0
+2,73,ECG,20.95,Dr. Smith,2025-06-01,Max Hospital,40,Other,Patient_73,Bangalore,9296425856,Radiology,Completed,2022-12-08,0
+6,74,ECG,84.81,Dr. Lee,2025-02-09,Medanta,28,Female,Patient_74,Pune,9209913863,Orthopedics,Completed,2022-01-21,0
+54,75,MRI,43.93,Dr. Smith,2025-05-29,Manipal Hospital,23,Male,Patient_75,Delhi,9248793711,Pathology,Completed,2024-01-05,0
+4,76,Ultrasound,5.79,Dr. Johnson,2025-06-16,Medanta,20,Female,Patient_76,Delhi,9129671526,Oncology,Pending,2025-08-21,0
+54,77,MRI,43.93,Dr. Smith,2025-05-29,Manipal Hospital,65,Female,Patient_77,Mumbai,9357982278,Pathology,Pending,2022-05-12,0
+93,78,ECG,169.68,Dr. Lee,2025-05-10,AIIMS,51,Male,Patient_78,Bangalore,9626743921,Radiology,Completed,2023-07-09,1
+63,79,Urine Test,187.18,Dr. Smith,2025-04-28,Max Hospital,52,Female,Patient_79,Pune,9296675884,Pathology,Completed,2025-09-23,1
+18,80,Urine Test,63.43,Dr. Lee,2025-01-17,Manipal Hospital,52,Male,Patient_80,Delhi,9468897571,Cardiology,Completed,2024-07-19,0
+90,81,Ultrasound,23.57,Dr. Johnson,2025-03-07,Manipal Hospital,50,Other,Patient_81,Chennai,9620540153,Radiology,Completed,2025-08-05,0
+44,82,Urine Test,81.71,Dr. Smith,2025-01-25,Apollo Hospital,46,Male,Patient_82,Chennai,9868846700,Neurology,Completed,2023-06-02,0
+34,83,Blood Test,48.55,Dr. Smith,2025-01-22,Fortis Healthcare,65,Other,Patient_83,Mumbai,9692458545,Oncology,Completed,2022-10-07,0
+74,84,ECG,85.82,Dr. Smith,2025-01-29,Max Hospital,20,Female,Patient_84,Kolkata,9582929623,Radiology,Completed,2022-10-03,0
+62,85,X-Ray,134.5,Dr. Lee,2025-04-28,Manipal Hospital,49,Male,Patient_85,Chennai,9283261066,Cardiology,Completed,2025-02-06,1
+100,86,MRI,103.33,Dr. Lee,2025-01-24,Medanta,59,Male,Patient_86,Hyderabad,9412546938,Pathology,Pending,2023-07-19,1
+14,87,MRI,42.3,Dr. Lee,2025-06-29,Fortis Healthcare,49,Female,Patient_87,Pune,9357481705,Orthopedics,Completed,2022-12-15,0
+95,88,Ultrasound,25.89,Dr. Patel,2025-06-20,Max Hospital,39,Female,Patient_88,Chennai,9139542835,Pediatrics,Completed,2022-09-10,0
+48,89,X-Ray,56.07,Dr. Johnson,2025-01-20,AIIMS,75,Other,Patient_89,Mumbai,9387128019,Orthopedics,Completed,2025-01-13,0
+15,90,Ultrasound,127.18,Dr. Johnson,2025-02-11,Apollo Hospital,55,Male,Patient_90,Pune,9209966770,Pathology,Pending,2022-09-19,1
+72,91,Urine Test,55.7,Dr. Smith,2025-03-27,Max Hospital,53,Other,Patient_91,Chennai,9866198955,Oncology,Pending,2022-05-26,0
+78,92,ECG,50.28,Dr. Smith,2025-04-01,Fortis Healthcare,38,Female,Patient_92,Kolkata,9915199171,Radiology,Completed,2025-01-04,0
+87,93,MRI,187.88,Dr. Smith,2025-03-08,AIIMS,68,Female,Patient_93,Hyderabad,9978749667,Neurology,Pending,2024-03-27,1
+62,94,X-Ray,134.5,Dr. Lee,2025-04-28,Max Hospital,74,Female,Patient_94,Chennai,9580096179,Oncology,Completed,2022-09-03,1
+40,95,Ultrasound,111.01,Dr. Johnson,2025-01-02,Manipal Hospital,75,Female,Patient_95,Kolkata,9354202129,Orthopedics,Completed,2025-06-05,1
+85,96,ECG,39.03,Dr. Lee,2025-03-13,Fortis Healthcare,65,Male,Patient_96,Mumbai,9697377974,Neurology,Pending,2022-01-05,0
+80,97,Urine Test,162.25,Dr. Patel,2025-01-07,AIIMS,48,Other,Patient_97,Delhi,9564242876,Pathology,Pending,2022-01-14,1
+82,98,MRI,32.26,Dr. Smith,2025-04-08,Fortis Healthcare,49,Female,Patient_98,Delhi,9702075626,Radiology,Pending,2024-07-20,0
+53,99,MRI,84.89,Dr. Patel,2025-02-09,Medanta,79,Female,Patient_99,Pune,9582147380,Pathology,Pending,2025-06-19,0
+24,100,ECG,32.42,Dr. Patel,2025-06-02,Fortis Healthcare,20,Male,Patient_100,Mumbai,9327627035,Pediatrics,Completed,2024-01-21,0
+26,101,Ultrasound,172.23,Dr. Smith,2025-06-24,Medanta,37,Male,Patient_101,Kolkata,9117162668,Radiology,Completed,2023-03-14,1
+89,102,Ultrasound,87.2,Dr. Lee,2025-04-22,Max Hospital,33,Other,Patient_102,Pune,9801065739,Oncology,Completed,2024-12-10,0
+60,103,CT Scan,131.65,Dr. Lee,2025-03-08,Manipal Hospital,24,Female,Patient_103,Chennai,9925177430,Pathology,Pending,2023-11-23,1
+41,104,ECG,126.41,Dr. Johnson,2025-01-18,Max Hospital,28,Male,Patient_104,Chennai,9405873487,Neurology,Pending,2023-03-16,1
+29,105,ECG,175.23,Dr. Lee,2025-05-09,Max Hospital,48,Other,Patient_105,Hyderabad,9376329984,Orthopedics,Pending,2023-11-15,1
+15,106,Ultrasound,127.18,Dr. Johnson,2025-02-11,Fortis Healthcare,54,Female,Patient_106,Mumbai,9330904813,Orthopedics,Pending,2024-10-13,1
+45,107,MRI,85.0,Dr. Patel,2025-01-14,AIIMS,23,Female,Patient_107,Kolkata,9299447264,Orthopedics,Pending,2023-01-07,0
+65,108,Ultrasound,53.41,Dr. Lee,2025-01-18,Manipal Hospital,55,Female,Patient_108,Bangalore,9317526735,Pathology,Completed,2025-06-23,0
+89,109,Ultrasound,87.2,Dr. Lee,2025-04-22,Medanta,37,Male,Patient_109,Hyderabad,9845857879,Radiology,Pending,2022-09-29,0
+71,110,Ultrasound,97.96,Dr. Smith,2025-01-24,Fortis Healthcare,79,Female,Patient_110,Bangalore,9230376827,Cardiology,Pending,2022-10-24,0
+9,111,Ultrasound,25.4,Dr. Patel,2025-01-21,Medanta,67,Male,Patient_111,Bangalore,9816323994,Pediatrics,Pending,2023-10-24,0
+88,112,Ultrasound,192.53,Dr. Lee,2025-01-10,Max Hospital,29,Female,Patient_112,Chennai,9952610329,Neurology,Completed,2022-04-10,1
+1,113,Blood Test,148.44,Dr. Johnson,2025-02-27,AIIMS,31,Female,Patient_113,Hyderabad,9353702823,Orthopedics,Completed,2022-03-07,1
+8,114,MRI,169.58,Dr. Lee,2025-01-12,Medanta,26,Female,Patient_114,Hyderabad,9269819296,Pathology,Completed,2024-07-09,1
+88,115,Ultrasound,192.53,Dr. Lee,2025-01-10,Apollo Hospital,26,Female,Patient_115,Chennai,9906042267,Radiology,Pending,2025-06-08,1
+63,116,Urine Test,187.18,Dr. Smith,2025-04-28,Medanta,26,Female,Patient_116,Delhi,9749104706,Pathology,Pending,2025-01-24,1
+11,117,ECG,14.38,Dr. Johnson,2025-03-16,Max Hospital,58,Male,Patient_117,Chennai,9600778595,Pathology,Completed,2025-02-07,0
+81,118,ECG,184.94,Dr. Patel,2025-06-21,Max Hospital,68,Female,Patient_118,Kolkata,9370252459,Orthopedics,Pending,2025-09-02,1
+8,119,MRI,169.58,Dr. Lee,2025-01-12,Apollo Hospital,51,Male,Patient_119,Kolkata,9594510749,Neurology,Pending,2023-03-08,1
+35,120,Urine Test,14.31,Dr. Johnson,2025-02-02,Medanta,58,Other,Patient_120,Bangalore,9142286957,Cardiology,Completed,2023-02-24,0
+35,121,Urine Test,14.31,Dr. Johnson,2025-02-02,AIIMS,38,Male,Patient_121,Bangalore,9443543387,Pathology,Completed,2024-01-27,0
+33,122,CT Scan,4.39,Dr. Lee,2025-03-20,Medanta,44,Female,Patient_122,Hyderabad,9331298393,Cardiology,Completed,2025-09-12,0
+5,123,CT Scan,44.48,Dr. Lee,2025-01-02,AIIMS,56,Female,Patient_123,Kolkata,9540369684,Neurology,Pending,2024-01-19,0
+41,124,ECG,126.41,Dr. Johnson,2025-01-18,AIIMS,42,Other,Patient_124,Chennai,9776001371,Radiology,Pending,2025-04-03,1
+28,125,Blood Test,59.05,Dr. Johnson,2025-04-27,Max Hospital,60,Male,Patient_125,Pune,9573581728,Radiology,Completed,2023-01-18,0
+7,126,Urine Test,67.65,Dr. Smith,2025-04-08,AIIMS,52,Other,Patient_126,Chennai,9531878349,Neurology,Completed,2022-08-13,0
+73,127,ECG,195.97,Dr. Johnson,2025-04-24,Apollo Hospital,23,Other,Patient_127,Chennai,9699306449,Orthopedics,Completed,2024-03-23,1
+72,128,Urine Test,55.7,Dr. Smith,2025-03-27,Manipal Hospital,26,Male,Patient_128,Pune,9270711932,Oncology,Pending,2025-04-06,0
+12,129,Urine Test,46.94,Dr. Smith,2025-04-08,Fortis Healthcare,38,Male,Patient_129,Bangalore,9690762700,Oncology,Completed,2025-06-24,0
+34,130,Blood Test,48.55,Dr. Smith,2025-01-22,Manipal Hospital,77,Female,Patient_130,Pune,9192334878,Orthopedics,Pending,2023-09-25,0
+33,131,CT Scan,4.39,Dr. Lee,2025-03-20,AIIMS,62,Other,Patient_131,Pune,9160317987,Orthopedics,Completed,2024-02-25,0
+48,132,X-Ray,56.07,Dr. Johnson,2025-01-20,Apollo Hospital,45,Female,Patient_132,Bangalore,9215551840,Cardiology,Completed,2022-02-15,0
+23,133,CT Scan,18.64,Dr. Smith,2025-01-29,Manipal Hospital,36,Male,Patient_133,Hyderabad,9428676938,Oncology,Pending,2024-04-13,0
+62,134,X-Ray,134.5,Dr. Lee,2025-04-28,Manipal Hospital,70,Other,Patient_134,Kolkata,9447338340,Pediatrics,Completed,2022-04-29,1
+88,135,Ultrasound,192.53,Dr. Lee,2025-01-10,Apollo Hospital,22,Male,Patient_135,Hyderabad,9241461190,Pediatrics,Pending,2023-09-14,1
+37,136,Urine Test,146.12,Dr. Johnson,2025-03-21,Manipal Hospital,68,Female,Patient_136,Hyderabad,9507350285,Neurology,Pending,2022-07-20,1
+99,137,CT Scan,135.29,Dr. Patel,2025-02-13,Manipal Hospital,68,Male,Patient_137,Delhi,9737896600,Orthopedics,Completed,2023-08-28,1
+44,138,Urine Test,81.71,Dr. Smith,2025-01-25,Apollo Hospital,77,Female,Patient_138,Pune,9208850544,Oncology,Completed,2022-04-08,0
+86,139,Urine Test,56.19,Dr. Patel,2025-06-23,Fortis Healthcare,62,Female,Patient_139,Bangalore,9103269923,Pathology,Pending,2025-10-09,0
+91,140,ECG,87.49,Dr. Johnson,2025-04-04,Medanta,49,Other,Patient_140,Chennai,9958665847,Oncology,Completed,2024-06-17,0
+35,141,Urine Test,14.31,Dr. Johnson,2025-02-02,AIIMS,73,Male,Patient_141,Pune,9926974157,Pediatrics,Pending,2023-02-11,0
+65,142,Ultrasound,53.41,Dr. Lee,2025-01-18,Max Hospital,67,Male,Patient_142,Hyderabad,9778067591,Radiology,Completed,2024-08-09,0
+99,143,CT Scan,135.29,Dr. Patel,2025-02-13,Apollo Hospital,25,Other,Patient_143,Hyderabad,9302470230,Radiology,Completed,2022-12-18,1
+47,144,X-Ray,38.45,Dr. Patel,2025-02-05,Max Hospital,21,Female,Patient_144,Bangalore,9866354244,Radiology,Pending,2023-10-30,0
+78,145,ECG,50.28,Dr. Smith,2025-04-01,Medanta,64,Male,Patient_145,Bangalore,9839085575,Cardiology,Completed,2022-06-30,0
+3,146,Blood Test,6.44,Dr. Johnson,2025-03-01,Fortis Healthcare,66,Female,Patient_146,Pune,9722045273,Pediatrics,Completed,2025-08-08,0
+1,147,Blood Test,148.44,Dr. Johnson,2025-02-27,Fortis Healthcare,47,Other,Patient_147,Chennai,9313009010,Orthopedics,Pending,2023-11-11,1
+5,148,CT Scan,44.48,Dr. Lee,2025-01-02,Medanta,49,Male,Patient_148,Delhi,9326351239,Pathology,Pending,2025-06-13,0
+90,149,Ultrasound,23.57,Dr. Johnson,2025-03-07,Apollo Hospital,42,Other,Patient_149,Hyderabad,9794269876,Neurology,Completed,2024-05-19,0
+14,150,MRI,42.3,Dr. Lee,2025-06-29,AIIMS,62,Other,Patient_150,Chennai,9403327140,Radiology,Completed,2023-02-21,0
+27,151,ECG,177.02,Dr. Lee,2025-06-14,Apollo Hospital,55,Female,Patient_151,Pune,9318482321,Pediatrics,Pending,2022-10-27,1
+9,152,Ultrasound,25.4,Dr. Patel,2025-01-21,AIIMS,42,Other,Patient_152,Kolkata,9601960551,Cardiology,Pending,2022-01-09,0
+79,153,Urine Test,81.57,Dr. Johnson,2025-03-02,Medanta,31,Female,Patient_153,Pune,9229961181,Orthopedics,Pending,2022-11-07,0
+15,154,Ultrasound,127.18,Dr. Johnson,2025-02-11,Max Hospital,51,Female,Patient_154,Kolkata,9454624149,Neurology,Pending,2022-08-04,1
+90,155,Ultrasound,23.57,Dr. Johnson,2025-03-07,Manipal Hospital,73,Other,Patient_155,Kolkata,9505935518,Oncology,Pending,2022-11-14,0
+42,156,Urine Test,66.42,Dr. Johnson,2025-03-13,AIIMS,51,Other,Patient_156,Kolkata,9990354882,Cardiology,Completed,2022-11-15,0
+77,157,MRI,179.85,Dr. Smith,2025-04-02,Max Hospital,24,Other,Patient_157,Kolkata,9731613903,Oncology,Completed,2024-09-02,1
+51,158,CT Scan,97.39,Dr. Johnson,2025-04-13,AIIMS,69,Other,Patient_158,Hyderabad,9291812719,Neurology,Completed,2023-03-06,0
+63,159,Urine Test,187.18,Dr. Smith,2025-04-28,Apollo Hospital,58,Female,Patient_159,Delhi,9264133796,Oncology,Pending,2024-03-02,1
+96,160,ECG,149.75,Dr. Johnson,2025-06-07,Medanta,25,Male,Patient_160,Mumbai,9894132585,Oncology,Pending,2024-04-06,1
+52,161,X-Ray,76.11,Dr. Patel,2025-03-09,Max Hospital,43,Female,Patient_161,Chennai,9110486292,Pediatrics,Completed,2022-09-15,0
+96,162,ECG,149.75,Dr. Johnson,2025-06-07,AIIMS,79,Male,Patient_162,Chennai,9494824807,Cardiology,Completed,2025-07-27,1
+4,163,Ultrasound,5.79,Dr. Johnson,2025-06-16,Fortis Healthcare,32,Female,Patient_163,Pune,9454985719,Pathology,Pending,2023-06-26,0
+94,164,ECG,81.97,Dr. Patel,2025-06-28,Apollo Hospital,32,Other,Patient_164,Hyderabad,9661392022,Orthopedics,Pending,2023-03-17,0
+23,165,CT Scan,18.64,Dr. Smith,2025-01-29,Manipal Hospital,28,Female,Patient_165,Bangalore,9493828079,Neurology,Pending,2022-05-14,0
+15,166,Ultrasound,127.18,Dr. Johnson,2025-02-11,Apollo Hospital,35,Other,Patient_166,Delhi,9378741571,Neurology,Completed,2024-02-27,1
+43,167,X-Ray,108.08,Dr. Patel,2025-03-04,Manipal Hospital,78,Male,Patient_167,Hyderabad,9326127330,Oncology,Completed,2023-02-19,1
+29,168,ECG,175.23,Dr. Lee,2025-05-09,AIIMS,22,Male,Patient_168,Hyderabad,9487356076,Cardiology,Completed,2024-10-16,1
+36,169,Ultrasound,33.44,Dr. Patel,2025-02-24,Apollo Hospital,77,Male,Patient_169,Hyderabad,9202100744,Radiology,Completed,2024-01-27,0
+13,170,CT Scan,127.32,Dr. Lee,2025-02-11,Apollo Hospital,42,Female,Patient_170,Bangalore,9699716710,Radiology,Completed,2025-01-21,1
+32,171,Urine Test,184.53,Dr. Smith,2025-06-03,Fortis Healthcare,42,Male,Patient_171,Kolkata,9196557937,Orthopedics,Pending,2024-05-11,1
+71,172,Ultrasound,97.96,Dr. Smith,2025-01-24,Manipal Hospital,54,Other,Patient_172,Mumbai,9761273621,Radiology,Pending,2025-06-15,0
+59,173,X-Ray,115.99,Dr. Smith,2025-06-08,Apollo Hospital,41,Female,Patient_173,Delhi,9270107539,Oncology,Pending,2022-05-25,1
+86,174,Urine Test,56.19,Dr. Patel,2025-06-23,Medanta,26,Female,Patient_174,Kolkata,9234077837,Neurology,Completed,2023-01-20,0
+28,175,Blood Test,59.05,Dr. Johnson,2025-04-27,Max Hospital,58,Female,Patient_175,Mumbai,9757400162,Pathology,Pending,2023-02-18,0
+66,176,MRI,57.35,Dr. Patel,2025-05-20,Fortis Healthcare,45,Other,Patient_176,Kolkata,9591223920,Pediatrics,Pending,2023-06-24,0
+42,177,Urine Test,66.42,Dr. Johnson,2025-03-13,Fortis Healthcare,54,Male,Patient_177,Delhi,9187824034,Pathology,Pending,2025-03-23,0
+45,178,MRI,85.0,Dr. Patel,2025-01-14,Manipal Hospital,40,Female,Patient_178,Hyderabad,9639087201,Neurology,Pending,2024-06-02,0
+62,179,X-Ray,134.5,Dr. Lee,2025-04-28,Medanta,32,Male,Patient_179,Hyderabad,9421978447,Orthopedics,Pending,2022-12-28,1
+57,180,Blood Test,170.34,Dr. Smith,2025-06-02,Fortis Healthcare,52,Female,Patient_180,Pune,9371922335,Pediatrics,Pending,2023-09-01,1
+6,181,ECG,84.81,Dr. Lee,2025-02-09,Medanta,33,Other,Patient_181,Bangalore,9813319127,Neurology,Completed,2022-07-14,0
+28,182,Blood Test,59.05,Dr. Johnson,2025-04-27,Fortis Healthcare,33,Male,Patient_182,Pune,9187905192,Radiology,Pending,2025-04-04,0
+28,183,Blood Test,59.05,Dr. Johnson,2025-04-27,Fortis Healthcare,69,Female,Patient_183,Delhi,9399527374,Oncology,Pending,2024-12-27,0
+44,184,Urine Test,81.71,Dr. Smith,2025-01-25,Manipal Hospital,49,Male,Patient_184,Kolkata,9978449772,Oncology,Completed,2023-10-31,0
+84,185,MRI,164.2,Dr. Johnson,2025-02-27,Medanta,53,Female,Patient_185,Hyderabad,9182713393,Oncology,Pending,2025-03-07,1
+30,186,Ultrasound,182.57,Dr. Lee,2025-06-13,Manipal Hospital,63,Male,Patient_186,Chennai,9817963747,Oncology,Completed,2022-10-29,1
+62,187,X-Ray,134.5,Dr. Lee,2025-04-28,Manipal Hospital,75,Female,Patient_187,Hyderabad,9369771966,Pediatrics,Pending,2023-09-24,1
+75,188,ECG,180.83,Dr. Smith,2025-04-05,Apollo Hospital,75,Male,Patient_188,Hyderabad,9449124188,Radiology,Completed,2025-02-17,1
+92,189,Blood Test,189.8,Dr. Lee,2025-06-09,Max Hospital,56,Other,Patient_189,Hyderabad,9863709308,Radiology,Pending,2023-01-12,1
+89,190,Ultrasound,87.2,Dr. Lee,2025-04-22,Medanta,76,Female,Patient_190,Chennai,9658338168,Orthopedics,Pending,2024-11-01,0
+62,191,X-Ray,134.5,Dr. Lee,2025-04-28,Apollo Hospital,22,Male,Patient_191,Hyderabad,9706565815,Oncology,Pending,2022-12-29,1
+97,192,MRI,81.51,Dr. Smith,2025-03-19,AIIMS,76,Female,Patient_192,Delhi,9418015688,Cardiology,Pending,2024-10-27,0
+1,193,Blood Test,148.44,Dr. Johnson,2025-02-27,Manipal Hospital,22,Male,Patient_193,Hyderabad,9202010252,Neurology,Pending,2025-05-13,1
+27,194,ECG,177.02,Dr. Lee,2025-06-14,Medanta,66,Female,Patient_194,Mumbai,9442992054,Oncology,Completed,2023-01-14,1
+62,195,X-Ray,134.5,Dr. Lee,2025-04-28,Medanta,78,Other,Patient_195,Chennai,9556954242,Cardiology,Completed,2022-02-23,1
+77,196,MRI,179.85,Dr. Smith,2025-04-02,Apollo Hospital,52,Other,Patient_196,Chennai,9490576593,Pediatrics,Completed,2022-12-18,1
+3,197,Blood Test,6.44,Dr. Johnson,2025-03-01,Max Hospital,64,Female,Patient_197,Hyderabad,9696794529,Orthopedics,Completed,2022-08-06,0
+70,198,Ultrasound,42.52,Dr. Lee,2025-02-22,AIIMS,35,Other,Patient_198,Mumbai,9691103965,Oncology,Pending,2024-10-26,0
+72,199,Urine Test,55.7,Dr. Smith,2025-03-27,Max Hospital,62,Male,Patient_199,Pune,9818975841,Cardiology,Completed,2022-12-15,0
+27,200,ECG,177.02,Dr. Lee,2025-06-14,Medanta,23,Other,Patient_200,Kolkata,9669635783,Cardiology,Pending,2025-07-21,1
+9,201,Ultrasound,25.4,Dr. Patel,2025-01-21,Medanta,52,Female,Patient_201,Chennai,9641614845,Pathology,Completed,2024-10-15,0
+62,202,X-Ray,134.5,Dr. Lee,2025-04-28,Max Hospital,59,Female,Patient_202,Delhi,9499079747,Cardiology,Pending,2022-01-25,1
+37,203,Urine Test,146.12,Dr. Johnson,2025-03-21,Max Hospital,43,Male,Patient_203,Chennai,9887515313,Pediatrics,Completed,2023-02-10,1
+97,204,MRI,81.51,Dr. Smith,2025-03-19,Fortis Healthcare,32,Female,Patient_204,Hyderabad,9408740679,Neurology,Pending,2023-10-08,0
+51,205,CT Scan,97.39,Dr. Johnson,2025-04-13,Manipal Hospital,71,Female,Patient_205,Kolkata,9589784080,Orthopedics,Completed,2024-09-30,0
+44,206,Urine Test,81.71,Dr. Smith,2025-01-25,Manipal Hospital,45,Male,Patient_206,Kolkata,9949505458,Neurology,Completed,2022-06-13,0
+24,207,ECG,32.42,Dr. Patel,2025-06-02,Apollo Hospital,20,Male,Patient_207,Kolkata,9702787833,Pathology,Completed,2025-07-22,0
+79,208,Urine Test,81.57,Dr. Johnson,2025-03-02,Max Hospital,75,Female,Patient_208,Hyderabad,9932635332,Neurology,Completed,2023-04-10,0
+59,209,X-Ray,115.99,Dr. Smith,2025-06-08,Apollo Hospital,79,Female,Patient_209,Mumbai,9163647047,Pediatrics,Pending,2023-05-29,1
+32,210,Urine Test,184.53,Dr. Smith,2025-06-03,Manipal Hospital,29,Female,Patient_210,Chennai,9796437634,Radiology,Pending,2024-06-03,1
+96,211,ECG,149.75,Dr. Johnson,2025-06-07,Max Hospital,72,Other,Patient_211,Mumbai,9256206519,Oncology,Completed,2022-07-10,1
+88,212,Ultrasound,192.53,Dr. Lee,2025-01-10,Apollo Hospital,57,Other,Patient_212,Chennai,9767626432,Oncology,Completed,2024-11-14,1
+52,213,X-Ray,76.11,Dr. Patel,2025-03-09,Apollo Hospital,66,Male,Patient_213,Mumbai,9603967552,Radiology,Pending,2023-02-12,0
+62,214,X-Ray,134.5,Dr. Lee,2025-04-28,Apollo Hospital,44,Male,Patient_214,Bangalore,9377516654,Cardiology,Completed,2022-04-17,1
+58,215,ECG,172.43,Dr. Patel,2025-01-31,Medanta,61,Female,Patient_215,Chennai,9658585889,Cardiology,Pending,2025-09-02,1
+52,216,X-Ray,76.11,Dr. Patel,2025-03-09,Apollo Hospital,72,Male,Patient_216,Pune,9335671349,Orthopedics,Pending,2023-09-18,0
+12,217,Urine Test,46.94,Dr. Smith,2025-04-08,Manipal Hospital,46,Male,Patient_217,Mumbai,9711196912,Oncology,Completed,2023-06-26,0
+39,218,Blood Test,49.96,Dr. Smith,2025-03-28,Fortis Healthcare,23,Female,Patient_218,Mumbai,9893940124,Radiology,Pending,2022-12-15,0
+2,219,ECG,20.95,Dr. Smith,2025-06-01,AIIMS,76,Male,Patient_219,Delhi,9604935971,Oncology,Completed,2025-05-27,0
+3,220,Blood Test,6.44,Dr. Johnson,2025-03-01,Fortis Healthcare,27,Other,Patient_220,Hyderabad,9710960545,Cardiology,Completed,2022-01-20,0
+56,221,CT Scan,100.82,Dr. Johnson,2025-01-15,Max Hospital,71,Female,Patient_221,Chennai,9779790070,Neurology,Pending,2022-06-08,0
+81,222,ECG,184.94,Dr. Patel,2025-06-21,Medanta,54,Other,Patient_222,Delhi,9300371462,Pediatrics,Pending,2022-08-27,1
+59,223,X-Ray,115.99,Dr. Smith,2025-06-08,AIIMS,70,Female,Patient_223,Kolkata,9918388021,Neurology,Pending,2024-07-13,1
+2,224,ECG,20.95,Dr. Smith,2025-06-01,Manipal Hospital,50,Female,Patient_224,Hyderabad,9411906827,Pathology,Completed,2022-05-16,0
+2,225,ECG,20.95,Dr. Smith,2025-06-01,Apollo Hospital,57,Other,Patient_225,Hyderabad,9308176431,Pathology,Completed,2025-06-20,0
+92,226,Blood Test,189.8,Dr. Lee,2025-06-09,Max Hospital,58,Other,Patient_226,Bangalore,9189318346,Oncology,Pending,2025-10-08,1
+54,227,MRI,43.93,Dr. Smith,2025-05-29,AIIMS,23,Male,Patient_227,Pune,9488942734,Orthopedics,Completed,2022-09-23,0
+87,228,MRI,187.88,Dr. Smith,2025-03-08,Apollo Hospital,56,Male,Patient_228,Pune,9749353245,Oncology,Pending,2025-06-25,1
+96,229,ECG,149.75,Dr. Johnson,2025-06-07,Manipal Hospital,65,Male,Patient_229,Kolkata,9475390872,Neurology,Pending,2024-12-05,1
+97,230,MRI,81.51,Dr. Smith,2025-03-19,Manipal Hospital,25,Male,Patient_230,Hyderabad,9399326356,Cardiology,Pending,2023-06-25,0
+1,231,Blood Test,148.44,Dr. Johnson,2025-02-27,Manipal Hospital,58,Male,Patient_231,Pune,9487176886,Pediatrics,Completed,2024-02-21,1
+19,232,Ultrasound,175.34,Dr. Lee,2025-02-24,Max Hospital,50,Male,Patient_232,Chennai,9697277309,Oncology,Completed,2024-06-11,1
+2,233,ECG,20.95,Dr. Smith,2025-06-01,Fortis Healthcare,21,Male,Patient_233,Chennai,9941906829,Pathology,Completed,2022-12-19,0
+53,234,MRI,84.89,Dr. Patel,2025-02-09,AIIMS,49,Male,Patient_234,Hyderabad,9236500108,Pathology,Completed,2022-10-15,0
+44,235,Urine Test,81.71,Dr. Smith,2025-01-25,Medanta,25,Female,Patient_235,Mumbai,9943763837,Oncology,Pending,2025-03-24,0
+90,236,Ultrasound,23.57,Dr. Johnson,2025-03-07,Fortis Healthcare,43,Male,Patient_236,Hyderabad,9576194894,Orthopedics,Pending,2023-10-23,0
+32,237,Urine Test,184.53,Dr. Smith,2025-06-03,Medanta,51,Other,Patient_237,Mumbai,9816885191,Orthopedics,Completed,2024-03-02,1
+70,238,Ultrasound,42.52,Dr. Lee,2025-02-22,Max Hospital,68,Male,Patient_238,Pune,9286819887,Oncology,Pending,2025-08-27,0
+32,239,Urine Test,184.53,Dr. Smith,2025-06-03,Manipal Hospital,44,Male,Patient_239,Mumbai,9522847151,Pediatrics,Completed,2025-01-31,1
+68,240,MRI,186.39,Dr. Smith,2025-02-04,Medanta,27,Female,Patient_240,Bangalore,9364109613,Orthopedics,Completed,2023-08-19,1
+55,241,Blood Test,149.72,Dr. Smith,2025-01-13,Max Hospital,45,Male,Patient_241,Pune,9328671048,Cardiology,Pending,2024-04-09,1
+75,242,ECG,180.83,Dr. Smith,2025-04-05,Manipal Hospital,73,Other,Patient_242,Chennai,9798567858,Pathology,Pending,2025-03-23,1
+56,243,CT Scan,100.82,Dr. Johnson,2025-01-15,Fortis Healthcare,52,Male,Patient_243,Kolkata,9476470420,Pathology,Completed,2023-10-27,0
+17,244,Urine Test,153.78,Dr. Smith,2025-02-28,Manipal Hospital,50,Other,Patient_244,Bangalore,9236926933,Cardiology,Completed,2025-02-24,1
+38,245,ECG,130.15,Dr. Patel,2025-05-13,Fortis Healthcare,76,Female,Patient_245,Hyderabad,9828462533,Pathology,Pending,2025-02-24,1
+24,246,ECG,32.42,Dr. Patel,2025-06-02,Manipal Hospital,73,Other,Patient_246,Chennai,9568696529,Pathology,Pending,2022-09-15,0
+69,247,Blood Test,178.0,Dr. Johnson,2025-03-11,Medanta,21,Other,Patient_247,Bangalore,9269818898,Oncology,Pending,2024-03-10,1
+98,248,X-Ray,86.26,Dr. Lee,2025-04-30,Max Hospital,68,Other,Patient_248,Hyderabad,9168710643,Radiology,Pending,2022-01-23,0
+70,249,Ultrasound,42.52,Dr. Lee,2025-02-22,Max Hospital,76,Male,Patient_249,Pune,9359327865,Oncology,Pending,2023-05-17,0
+86,250,Urine Test,56.19,Dr. Patel,2025-06-23,Apollo Hospital,59,Male,Patient_250,Mumbai,9928684710,Neurology,Pending,2022-08-20,0
+11,251,ECG,14.38,Dr. Johnson,2025-03-16,AIIMS,73,Male,Patient_251,Mumbai,9546391819,Radiology,Completed,2023-01-25,0
+16,252,CT Scan,54.35,Dr. Johnson,2025-06-25,Apollo Hospital,52,Other,Patient_252,Mumbai,9651578298,Pathology,Pending,2023-08-09,0
+97,253,MRI,81.51,Dr. Smith,2025-03-19,AIIMS,60,Female,Patient_253,Hyderabad,9840456474,Oncology,Pending,2022-04-28,0
+73,254,ECG,195.97,Dr. Johnson,2025-04-24,Fortis Healthcare,53,Male,Patient_254,Chennai,9349940657,Cardiology,Pending,2022-01-07,1
+59,255,X-Ray,115.99,Dr. Smith,2025-06-08,Manipal Hospital,47,Female,Patient_255,Pune,9612134434,Cardiology,Pending,2024-01-20,1
+70,256,Ultrasound,42.52,Dr. Lee,2025-02-22,Manipal Hospital,79,Female,Patient_256,Pune,9929815340,Pathology,Completed,2023-07-20,0
+80,257,Urine Test,162.25,Dr. Patel,2025-01-07,AIIMS,35,Female,Patient_257,Pune,9436513414,Neurology,Pending,2023-01-23,1
+93,258,ECG,169.68,Dr. Lee,2025-05-10,AIIMS,45,Male,Patient_258,Delhi,9199745847,Cardiology,Completed,2022-06-19,1
+3,259,Blood Test,6.44,Dr. Johnson,2025-03-01,Medanta,71,Male,Patient_259,Pune,9239196919,Cardiology,Completed,2025-08-21,0
+20,260,CT Scan,176.99,Dr. Patel,2025-02-06,AIIMS,56,Male,Patient_260,Bangalore,9729605778,Pediatrics,Pending,2022-10-04,1
+59,261,X-Ray,115.99,Dr. Smith,2025-06-08,Max Hospital,26,Other,Patient_261,Chennai,9363478594,Neurology,Pending,2023-08-09,1
+36,262,Ultrasound,33.44,Dr. Patel,2025-02-24,Max Hospital,48,Male,Patient_262,Kolkata,9316606862,Pediatrics,Completed,2024-11-11,0
+19,263,Ultrasound,175.34,Dr. Lee,2025-02-24,AIIMS,75,Male,Patient_263,Mumbai,9484521463,Orthopedics,Pending,2025-05-31,1
+90,264,Ultrasound,23.57,Dr. Johnson,2025-03-07,Fortis Healthcare,62,Other,Patient_264,Bangalore,9697090245,Cardiology,Pending,2022-03-10,0
+67,265,Ultrasound,196.78,Dr. Smith,2025-06-20,Apollo Hospital,30,Female,Patient_265,Bangalore,9474827421,Pathology,Pending,2022-08-13,1
+19,266,Ultrasound,175.34,Dr. Lee,2025-02-24,Medanta,22,Female,Patient_266,Pune,9198564117,Orthopedics,Completed,2025-01-25,1
+20,267,CT Scan,176.99,Dr. Patel,2025-02-06,Manipal Hospital,26,Other,Patient_267,Mumbai,9114744315,Pathology,Completed,2022-09-13,1
+96,268,ECG,149.75,Dr. Johnson,2025-06-07,AIIMS,71,Male,Patient_268,Hyderabad,9103728579,Neurology,Pending,2024-02-15,1
+71,269,Ultrasound,97.96,Dr. Smith,2025-01-24,Manipal Hospital,34,Female,Patient_269,Hyderabad,9569923187,Radiology,Pending,2024-12-07,0
+52,270,X-Ray,76.11,Dr. Patel,2025-03-09,AIIMS,40,Female,Patient_270,Kolkata,9971556408,Radiology,Pending,2024-03-09,0
+33,271,CT Scan,4.39,Dr. Lee,2025-03-20,Max Hospital,49,Male,Patient_271,Pune,9932654794,Radiology,Completed,2022-08-22,0
+40,272,Ultrasound,111.01,Dr. Johnson,2025-01-02,Medanta,43,Other,Patient_272,Chennai,9495130563,Pathology,Completed,2025-09-26,1
+39,273,Blood Test,49.96,Dr. Smith,2025-03-28,Medanta,57,Female,Patient_273,Bangalore,9469758242,Pathology,Completed,2025-03-30,0
+82,274,MRI,32.26,Dr. Smith,2025-04-08,Max Hospital,20,Male,Patient_274,Pune,9813245978,Radiology,Pending,2022-05-09,0
+1,275,Blood Test,148.44,Dr. Johnson,2025-02-27,Fortis Healthcare,64,Female,Patient_275,Kolkata,9597794388,Pediatrics,Completed,2024-11-09,1
+11,276,ECG,14.38,Dr. Johnson,2025-03-16,AIIMS,79,Male,Patient_276,Bangalore,9842684423,Orthopedics,Pending,2024-05-10,0
+92,277,Blood Test,189.8,Dr. Lee,2025-06-09,Manipal Hospital,72,Female,Patient_277,Delhi,9136230792,Neurology,Completed,2022-12-11,1
+57,278,Blood Test,170.34,Dr. Smith,2025-06-02,Apollo Hospital,26,Female,Patient_278,Delhi,9405741493,Neurology,Pending,2023-07-15,1
+89,279,Ultrasound,87.2,Dr. Lee,2025-04-22,Medanta,62,Female,Patient_279,Pune,9434770952,Oncology,Completed,2023-06-19,0
+50,280,Urine Test,3.44,Dr. Smith,2025-03-02,AIIMS,21,Male,Patient_280,Kolkata,9930623167,Orthopedics,Completed,2025-10-02,0
+23,281,CT Scan,18.64,Dr. Smith,2025-01-29,Manipal Hospital,76,Female,Patient_281,Bangalore,9266180262,Radiology,Completed,2023-06-12,0
+31,282,Ultrasound,40.18,Dr. Lee,2025-02-11,AIIMS,59,Female,Patient_282,Pune,9467156619,Cardiology,Completed,2025-10-03,0
+94,283,ECG,81.97,Dr. Patel,2025-06-28,Medanta,53,Female,Patient_283,Kolkata,9858969085,Pediatrics,Completed,2022-12-21,0
+42,284,Urine Test,66.42,Dr. Johnson,2025-03-13,AIIMS,42,Female,Patient_284,Kolkata,9955265846,Neurology,Completed,2022-04-11,0
+99,285,CT Scan,135.29,Dr. Patel,2025-02-13,Max Hospital,36,Female,Patient_285,Delhi,9787805538,Neurology,Completed,2022-05-05,1
+7,286,Urine Test,67.65,Dr. Smith,2025-04-08,Max Hospital,38,Other,Patient_286,Bangalore,9230515293,Cardiology,Pending,2025-01-17,0
+16,287,CT Scan,54.35,Dr. Johnson,2025-06-25,AIIMS,27,Other,Patient_287,Hyderabad,9360991910,Pathology,Pending,2022-08-15,0
+90,288,Ultrasound,23.57,Dr. Johnson,2025-03-07,Max Hospital,71,Male,Patient_288,Kolkata,9784228537,Pathology,Pending,2022-06-27,0
+60,289,CT Scan,131.65,Dr. Lee,2025-03-08,Medanta,56,Other,Patient_289,Mumbai,9595599232,Pediatrics,Pending,2023-09-11,1
+2,290,ECG,20.95,Dr. Smith,2025-06-01,Apollo Hospital,53,Female,Patient_290,Mumbai,9603220777,Neurology,Pending,2024-04-02,0
+1,291,Blood Test,148.44,Dr. Johnson,2025-02-27,Medanta,55,Female,Patient_291,Delhi,9823492013,Cardiology,Completed,2024-04-22,1
+48,292,X-Ray,56.07,Dr. Johnson,2025-01-20,Manipal Hospital,23,Male,Patient_292,Delhi,9275941155,Neurology,Completed,2025-10-02,0
+12,293,Urine Test,46.94,Dr. Smith,2025-04-08,Manipal Hospital,30,Female,Patient_293,Delhi,9389324676,Cardiology,Pending,2024-07-25,0
+69,294,Blood Test,178.0,Dr. Johnson,2025-03-11,Apollo Hospital,26,Female,Patient_294,Chennai,9952604918,Pathology,Pending,2025-09-26,1
+37,295,Urine Test,146.12,Dr. Johnson,2025-03-21,Fortis Healthcare,57,Female,Patient_295,Mumbai,9117338905,Radiology,Pending,2022-05-01,1
+32,296,Urine Test,184.53,Dr. Smith,2025-06-03,AIIMS,41,Female,Patient_296,Bangalore,9781152515,Cardiology,Pending,2025-09-12,1
+9,297,Ultrasound,25.4,Dr. Patel,2025-01-21,AIIMS,32,Female,Patient_297,Delhi,9717944522,Neurology,Pending,2023-12-27,0
+99,298,CT Scan,135.29,Dr. Patel,2025-02-13,Medanta,67,Female,Patient_298,Bangalore,9351055483,Radiology,Completed,2022-12-05,1
+19,299,Ultrasound,175.34,Dr. Lee,2025-02-24,AIIMS,71,Male,Patient_299,Mumbai,9887325333,Oncology,Pending,2024-03-01,1
+48,300,X-Ray,56.07,Dr. Johnson,2025-01-20,Max Hospital,60,Other,Patient_300,Hyderabad,9168684470,Radiology,Completed,2024-09-11,0
+80,301,Urine Test,162.25,Dr. Patel,2025-01-07,AIIMS,42,Male,Patient_301,Pune,9358747694,Neurology,Pending,2022-07-16,1
+3,302,Blood Test,6.44,Dr. Johnson,2025-03-01,Apollo Hospital,49,Other,Patient_302,Chennai,9519054757,Orthopedics,Completed,2025-05-30,0
+20,303,CT Scan,176.99,Dr. Patel,2025-02-06,Medanta,22,Other,Patient_303,Pune,9969690737,Orthopedics,Pending,2023-07-10,1
+24,304,ECG,32.42,Dr. Patel,2025-06-02,Medanta,48,Other,Patient_304,Kolkata,9691440947,Cardiology,Pending,2022-04-13,0
+54,305,MRI,43.93,Dr. Smith,2025-05-29,Max Hospital,62,Female,Patient_305,Delhi,9424273259,Pathology,Completed,2024-08-14,0
+33,306,CT Scan,4.39,Dr. Lee,2025-03-20,Max Hospital,51,Male,Patient_306,Bangalore,9619872074,Pediatrics,Completed,2025-06-02,0
+24,307,ECG,32.42,Dr. Patel,2025-06-02,Medanta,32,Male,Patient_307,Hyderabad,9622956156,Pediatrics,Completed,2023-10-04,0
+75,308,ECG,180.83,Dr. Smith,2025-04-05,Fortis Healthcare,67,Female,Patient_308,Pune,9684705854,Orthopedics,Completed,2024-08-07,1
+72,309,Urine Test,55.7,Dr. Smith,2025-03-27,Max Hospital,49,Female,Patient_309,Chennai,9829062975,Cardiology,Pending,2025-08-07,0
+36,310,Ultrasound,33.44,Dr. Patel,2025-02-24,Fortis Healthcare,57,Female,Patient_310,Kolkata,9458309505,Orthopedics,Completed,2024-06-28,0
+38,311,ECG,130.15,Dr. Patel,2025-05-13,Fortis Healthcare,23,Other,Patient_311,Kolkata,9805564570,Neurology,Pending,2023-02-23,1
+84,312,MRI,164.2,Dr. Johnson,2025-02-27,Manipal Hospital,34,Male,Patient_312,Delhi,9536522504,Neurology,Pending,2023-03-24,1
+99,313,CT Scan,135.29,Dr. Patel,2025-02-13,Max Hospital,38,Other,Patient_313,Bangalore,9574424693,Orthopedics,Completed,2024-03-19,1
+89,314,Ultrasound,87.2,Dr. Lee,2025-04-22,Manipal Hospital,61,Female,Patient_314,Bangalore,9646444650,Neurology,Completed,2023-05-12,0
+99,315,CT Scan,135.29,Dr. Patel,2025-02-13,Fortis Healthcare,56,Other,Patient_315,Bangalore,9114162154,Orthopedics,Completed,2022-12-21,1
+25,316,CT Scan,76.63,Dr. Patel,2025-05-16,Manipal Hospital,64,Other,Patient_316,Mumbai,9991314805,Orthopedics,Completed,2023-05-28,0
+93,317,ECG,169.68,Dr. Lee,2025-05-10,Max Hospital,54,Other,Patient_317,Mumbai,9111438470,Orthopedics,Completed,2024-01-27,1
+18,318,Urine Test,63.43,Dr. Lee,2025-01-17,Fortis Healthcare,32,Male,Patient_318,Pune,9977816067,Cardiology,Pending,2023-02-01,0
+82,319,MRI,32.26,Dr. Smith,2025-04-08,Manipal Hospital,49,Female,Patient_319,Mumbai,9318906111,Oncology,Pending,2024-05-01,0
+66,320,MRI,57.35,Dr. Patel,2025-05-20,Apollo Hospital,56,Female,Patient_320,Pune,9638595725,Radiology,Completed,2024-05-25,0
+54,321,MRI,43.93,Dr. Smith,2025-05-29,Medanta,78,Male,Patient_321,Chennai,9411679777,Neurology,Pending,2022-05-13,0
+35,322,Urine Test,14.31,Dr. Johnson,2025-02-02,Max Hospital,39,Other,Patient_322,Chennai,9860069069,Neurology,Completed,2024-03-23,0
+80,323,Urine Test,162.25,Dr. Patel,2025-01-07,AIIMS,37,Other,Patient_323,Delhi,9122676406,Neurology,Pending,2025-02-22,1
+61,324,ECG,143.38,Dr. Johnson,2025-03-09,AIIMS,40,Female,Patient_324,Hyderabad,9157438112,Neurology,Completed,2024-06-22,1
+41,325,ECG,126.41,Dr. Johnson,2025-01-18,Medanta,74,Other,Patient_325,Delhi,9723865863,Oncology,Pending,2024-11-21,1
+100,326,MRI,103.33,Dr. Lee,2025-01-24,Medanta,74,Other,Patient_326,Bangalore,9721832392,Pathology,Pending,2023-01-14,1
+33,327,CT Scan,4.39,Dr. Lee,2025-03-20,AIIMS,74,Male,Patient_327,Mumbai,9557316854,Radiology,Pending,2022-08-25,0
+68,328,MRI,186.39,Dr. Smith,2025-02-04,Fortis Healthcare,68,Female,Patient_328,Chennai,9595291387,Oncology,Pending,2024-07-09,1
+33,329,CT Scan,4.39,Dr. Lee,2025-03-20,Manipal Hospital,63,Male,Patient_329,Mumbai,9285745124,Neurology,Pending,2023-06-21,0
+14,330,MRI,42.3,Dr. Lee,2025-06-29,Fortis Healthcare,38,Other,Patient_330,Bangalore,9360383092,Pathology,Pending,2024-10-10,0
+21,331,X-Ray,49.7,Dr. Lee,2025-05-30,Apollo Hospital,71,Other,Patient_331,Kolkata,9564448765,Neurology,Completed,2025-01-22,0
+48,332,X-Ray,56.07,Dr. Johnson,2025-01-20,Medanta,35,Male,Patient_332,Delhi,9835710069,Orthopedics,Pending,2023-09-09,0
+20,333,CT Scan,176.99,Dr. Patel,2025-02-06,AIIMS,41,Male,Patient_333,Chennai,9587941923,Radiology,Pending,2023-07-03,1
+8,334,MRI,169.58,Dr. Lee,2025-01-12,Medanta,34,Male,Patient_334,Mumbai,9963023009,Oncology,Pending,2023-07-07,1
+7,335,Urine Test,67.65,Dr. Smith,2025-04-08,Fortis Healthcare,32,Other,Patient_335,Kolkata,9756206870,Neurology,Pending,2022-02-01,0
+67,336,Ultrasound,196.78,Dr. Smith,2025-06-20,AIIMS,25,Other,Patient_336,Mumbai,9879772559,Orthopedics,Pending,2023-03-27,1
+17,337,Urine Test,153.78,Dr. Smith,2025-02-28,Max Hospital,57,Male,Patient_337,Mumbai,9586190731,Cardiology,Completed,2022-09-08,1
+33,338,CT Scan,4.39,Dr. Lee,2025-03-20,Max Hospital,62,Female,Patient_338,Delhi,9946558006,Cardiology,Completed,2025-08-31,0
+48,339,X-Ray,56.07,Dr. Johnson,2025-01-20,Max Hospital,73,Other,Patient_339,Delhi,9395923958,Orthopedics,Pending,2024-06-21,0
+76,340,Ultrasound,30.04,Dr. Johnson,2025-01-11,Manipal Hospital,65,Male,Patient_340,Delhi,9117993713,Radiology,Pending,2023-03-16,0
+59,341,X-Ray,115.99,Dr. Smith,2025-06-08,Medanta,30,Other,Patient_341,Chennai,9456214966,Cardiology,Completed,2023-04-29,1
+86,342,Urine Test,56.19,Dr. Patel,2025-06-23,Manipal Hospital,27,Other,Patient_342,Hyderabad,9104341318,Cardiology,Completed,2024-04-17,0
+22,343,Ultrasound,80.18,Dr. Johnson,2025-02-05,Fortis Healthcare,21,Other,Patient_343,Hyderabad,9479020462,Oncology,Completed,2024-03-29,0
+30,344,Ultrasound,182.57,Dr. Lee,2025-06-13,Medanta,28,Female,Patient_344,Hyderabad,9989819360,Pathology,Completed,2023-08-17,1
+38,345,ECG,130.15,Dr. Patel,2025-05-13,AIIMS,60,Male,Patient_345,Bangalore,9491009464,Cardiology,Completed,2022-09-29,1
+51,346,CT Scan,97.39,Dr. Johnson,2025-04-13,Manipal Hospital,41,Male,Patient_346,Pune,9308849579,Cardiology,Completed,2023-04-02,0
+54,347,MRI,43.93,Dr. Smith,2025-05-29,Fortis Healthcare,65,Female,Patient_347,Chennai,9262043396,Pathology,Completed,2022-09-12,0
+8,348,MRI,169.58,Dr. Lee,2025-01-12,Medanta,69,Other,Patient_348,Kolkata,9994786226,Radiology,Pending,2022-09-21,1
+27,349,ECG,177.02,Dr. Lee,2025-06-14,Fortis Healthcare,20,Male,Patient_349,Chennai,9422068570,Pediatrics,Completed,2024-09-04,1
+27,350,ECG,177.02,Dr. Lee,2025-06-14,AIIMS,52,Other,Patient_350,Kolkata,9857929683,Neurology,Pending,2025-08-07,1
+98,351,X-Ray,86.26,Dr. Lee,2025-04-30,AIIMS,68,Male,Patient_351,Chennai,9110155591,Pediatrics,Pending,2025-10-10,0
+21,352,X-Ray,49.7,Dr. Lee,2025-05-30,Fortis Healthcare,31,Female,Patient_352,Delhi,9623167809,Orthopedics,Pending,2024-11-26,0
+30,353,Ultrasound,182.57,Dr. Lee,2025-06-13,Fortis Healthcare,31,Male,Patient_353,Pune,9293499727,Cardiology,Pending,2024-05-20,1
+97,354,MRI,81.51,Dr. Smith,2025-03-19,Medanta,38,Other,Patient_354,Chennai,9499542409,Orthopedics,Pending,2023-02-05,0
+28,355,Blood Test,59.05,Dr. Johnson,2025-04-27,Medanta,55,Male,Patient_355,Delhi,9821886703,Oncology,Pending,2024-05-31,0
+64,356,Ultrasound,199.22,Dr. Smith,2025-05-18,Max Hospital,29,Other,Patient_356,Delhi,9833771880,Neurology,Completed,2025-08-29,1
+97,357,MRI,81.51,Dr. Smith,2025-03-19,Fortis Healthcare,63,Female,Patient_357,Bangalore,9448753281,Pathology,Completed,2025-07-21,0
+69,358,Blood Test,178.0,Dr. Johnson,2025-03-11,AIIMS,35,Other,Patient_358,Hyderabad,9428606379,Pathology,Pending,2022-12-15,1
+61,359,ECG,143.38,Dr. Johnson,2025-03-09,Manipal Hospital,49,Other,Patient_359,Delhi,9828869977,Pathology,Pending,2024-04-12,1
+48,360,X-Ray,56.07,Dr. Johnson,2025-01-20,Apollo Hospital,41,Male,Patient_360,Pune,9978220099,Pediatrics,Pending,2022-10-31,0
+19,361,Ultrasound,175.34,Dr. Lee,2025-02-24,Fortis Healthcare,43,Other,Patient_361,Mumbai,9813006182,Neurology,Pending,2023-03-16,1
+4,362,Ultrasound,5.79,Dr. Johnson,2025-06-16,Apollo Hospital,44,Other,Patient_362,Bangalore,9754924778,Radiology,Pending,2024-08-02,0
+35,363,Urine Test,14.31,Dr. Johnson,2025-02-02,AIIMS,34,Other,Patient_363,Pune,9264667121,Radiology,Completed,2023-02-10,0
+64,364,Ultrasound,199.22,Dr. Smith,2025-05-18,Max Hospital,79,Other,Patient_364,Kolkata,9501324939,Pathology,Pending,2024-11-25,1
+49,365,Urine Test,172.34,Dr. Smith,2025-01-13,Manipal Hospital,60,Male,Patient_365,Hyderabad,9443528199,Cardiology,Completed,2022-06-13,1
+17,366,Urine Test,153.78,Dr. Smith,2025-02-28,Max Hospital,51,Female,Patient_366,Chennai,9161357939,Orthopedics,Pending,2022-01-21,1
+44,367,Urine Test,81.71,Dr. Smith,2025-01-25,Max Hospital,21,Other,Patient_367,Mumbai,9669418872,Radiology,Completed,2024-12-26,0
+92,368,Blood Test,189.8,Dr. Lee,2025-06-09,Manipal Hospital,29,Female,Patient_368,Pune,9460338085,Cardiology,Pending,2023-04-28,1
+30,369,Ultrasound,182.57,Dr. Lee,2025-06-13,AIIMS,65,Female,Patient_369,Delhi,9406851990,Pathology,Completed,2023-09-10,1
+93,370,ECG,169.68,Dr. Lee,2025-05-10,AIIMS,78,Other,Patient_370,Delhi,9734688563,Orthopedics,Pending,2024-02-21,1
+46,371,Blood Test,80.82,Dr. Lee,2025-01-28,Manipal Hospital,56,Other,Patient_371,Delhi,9534904526,Neurology,Pending,2022-12-31,0
+6,372,ECG,84.81,Dr. Lee,2025-02-09,Manipal Hospital,39,Male,Patient_372,Pune,9892621335,Oncology,Pending,2023-06-08,0
+99,373,CT Scan,135.29,Dr. Patel,2025-02-13,Apollo Hospital,49,Male,Patient_373,Bangalore,9422657389,Pediatrics,Pending,2024-12-15,1
+37,374,Urine Test,146.12,Dr. Johnson,2025-03-21,Fortis Healthcare,22,Other,Patient_374,Kolkata,9892828902,Neurology,Pending,2022-02-26,1
+24,375,ECG,32.42,Dr. Patel,2025-06-02,Manipal Hospital,78,Other,Patient_375,Pune,9869779857,Pathology,Pending,2022-10-07,0
+93,376,ECG,169.68,Dr. Lee,2025-05-10,Medanta,69,Other,Patient_376,Mumbai,9810024622,Pathology,Pending,2022-05-09,1
+46,377,Blood Test,80.82,Dr. Lee,2025-01-28,Fortis Healthcare,55,Male,Patient_377,Chennai,9282536565,Pathology,Pending,2024-04-25,0
+53,378,MRI,84.89,Dr. Patel,2025-02-09,AIIMS,61,Male,Patient_378,Pune,9716749594,Orthopedics,Pending,2024-10-17,0
+95,379,Ultrasound,25.89,Dr. Patel,2025-06-20,Max Hospital,40,Female,Patient_379,Kolkata,9518280406,Orthopedics,Completed,2024-08-01,0
+99,380,CT Scan,135.29,Dr. Patel,2025-02-13,Manipal Hospital,24,Female,Patient_380,Delhi,9769313758,Orthopedics,Completed,2025-09-18,1
+60,381,CT Scan,131.65,Dr. Lee,2025-03-08,Medanta,62,Male,Patient_381,Delhi,9441721999,Cardiology,Pending,2024-02-11,1
+97,382,MRI,81.51,Dr. Smith,2025-03-19,Apollo Hospital,57,Other,Patient_382,Hyderabad,9554266224,Cardiology,Pending,2025-03-01,0
+63,383,Urine Test,187.18,Dr. Smith,2025-04-28,Fortis Healthcare,64,Female,Patient_383,Kolkata,9670156268,Neurology,Pending,2023-09-30,1
+85,384,ECG,39.03,Dr. Lee,2025-03-13,Medanta,28,Male,Patient_384,Kolkata,9904799433,Cardiology,Pending,2022-03-27,0
+32,385,Urine Test,184.53,Dr. Smith,2025-06-03,Manipal Hospital,61,Female,Patient_385,Pune,9957867625,Radiology,Completed,2022-10-10,1
+87,386,MRI,187.88,Dr. Smith,2025-03-08,Apollo Hospital,37,Female,Patient_386,Kolkata,9515811701,Cardiology,Pending,2025-04-18,1
+33,387,CT Scan,4.39,Dr. Lee,2025-03-20,Apollo Hospital,22,Male,Patient_387,Mumbai,9214493279,Radiology,Pending,2022-12-05,0
+67,388,Ultrasound,196.78,Dr. Smith,2025-06-20,Medanta,76,Female,Patient_388,Kolkata,9302453502,Pediatrics,Pending,2024-12-05,1
+18,389,Urine Test,63.43,Dr. Lee,2025-01-17,Fortis Healthcare,44,Male,Patient_389,Mumbai,9508353965,Oncology,Pending,2023-04-21,0
+25,390,CT Scan,76.63,Dr. Patel,2025-05-16,Apollo Hospital,44,Female,Patient_390,Delhi,9808355039,Orthopedics,Completed,2024-09-24,0
+95,391,Ultrasound,25.89,Dr. Patel,2025-06-20,Apollo Hospital,41,Male,Patient_391,Kolkata,9728149862,Neurology,Pending,2023-08-08,0
+54,392,MRI,43.93,Dr. Smith,2025-05-29,Medanta,28,Male,Patient_392,Kolkata,9545234718,Neurology,Completed,2025-03-17,0
+58,393,ECG,172.43,Dr. Patel,2025-01-31,Max Hospital,73,Other,Patient_393,Delhi,9941914604,Pathology,Completed,2023-02-28,1
+67,394,Ultrasound,196.78,Dr. Smith,2025-06-20,AIIMS,75,Female,Patient_394,Delhi,9142880236,Orthopedics,Pending,2022-01-13,1
+46,395,Blood Test,80.82,Dr. Lee,2025-01-28,Apollo Hospital,53,Other,Patient_395,Mumbai,9924903899,Pathology,Completed,2024-08-18,0
+24,396,ECG,32.42,Dr. Patel,2025-06-02,Medanta,66,Other,Patient_396,Kolkata,9995546571,Orthopedics,Pending,2024-03-21,0
+32,397,Urine Test,184.53,Dr. Smith,2025-06-03,Medanta,59,Male,Patient_397,Kolkata,9667308725,Pathology,Pending,2024-03-15,1
+47,398,X-Ray,38.45,Dr. Patel,2025-02-05,Fortis Healthcare,75,Male,Patient_398,Pune,9896679689,Cardiology,Pending,2024-11-25,0
+86,399,Urine Test,56.19,Dr. Patel,2025-06-23,Max Hospital,73,Male,Patient_399,Pune,9293976173,Radiology,Completed,2024-01-17,0
+23,400,CT Scan,18.64,Dr. Smith,2025-01-29,AIIMS,33,Other,Patient_400,Chennai,9894090913,Oncology,Pending,2023-10-06,0
+66,401,MRI,57.35,Dr. Patel,2025-05-20,Apollo Hospital,75,Other,Patient_401,Mumbai,9408597716,Orthopedics,Completed,2025-04-13,0
+27,402,ECG,177.02,Dr. Lee,2025-06-14,Max Hospital,26,Female,Patient_402,Hyderabad,9243658887,Cardiology,Completed,2023-10-19,1
+2,403,ECG,20.95,Dr. Smith,2025-06-01,Fortis Healthcare,44,Female,Patient_403,Mumbai,9887955563,Radiology,Pending,2023-03-15,0
+90,404,Ultrasound,23.57,Dr. Johnson,2025-03-07,Max Hospital,54,Other,Patient_404,Mumbai,9612190802,Pediatrics,Pending,2024-09-12,0
+17,405,Urine Test,153.78,Dr. Smith,2025-02-28,Medanta,50,Female,Patient_405,Bangalore,9595672676,Pediatrics,Completed,2023-02-21,1
+33,406,CT Scan,4.39,Dr. Lee,2025-03-20,Apollo Hospital,54,Other,Patient_406,Hyderabad,9646134301,Neurology,Pending,2022-07-09,0
+9,407,Ultrasound,25.4,Dr. Patel,2025-01-21,Medanta,50,Other,Patient_407,Kolkata,9517354670,Orthopedics,Completed,2023-08-25,0
+43,408,X-Ray,108.08,Dr. Patel,2025-03-04,Medanta,35,Female,Patient_408,Pune,9761423231,Neurology,Completed,2023-02-06,1
+48,409,X-Ray,56.07,Dr. Johnson,2025-01-20,AIIMS,20,Other,Patient_409,Mumbai,9133735695,Radiology,Pending,2025-09-21,0
+39,410,Blood Test,49.96,Dr. Smith,2025-03-28,Fortis Healthcare,57,Male,Patient_410,Hyderabad,9839181840,Pathology,Completed,2024-09-10,0
+93,411,ECG,169.68,Dr. Lee,2025-05-10,Medanta,77,Male,Patient_411,Chennai,9918220680,Cardiology,Completed,2023-08-09,1
+42,412,Urine Test,66.42,Dr. Johnson,2025-03-13,AIIMS,78,Female,Patient_412,Mumbai,9196092484,Orthopedics,Completed,2024-03-01,0
+26,413,Ultrasound,172.23,Dr. Smith,2025-06-24,Medanta,52,Male,Patient_413,Pune,9446866376,Pathology,Pending,2022-06-12,1
+99,414,CT Scan,135.29,Dr. Patel,2025-02-13,Apollo Hospital,29,Female,Patient_414,Bangalore,9857375988,Neurology,Pending,2025-07-01,1
+50,415,Urine Test,3.44,Dr. Smith,2025-03-02,Manipal Hospital,35,Female,Patient_415,Kolkata,9175256349,Pediatrics,Pending,2022-03-09,0
+25,416,CT Scan,76.63,Dr. Patel,2025-05-16,Fortis Healthcare,75,Male,Patient_416,Kolkata,9158240165,Cardiology,Completed,2022-03-31,0
+24,417,ECG,32.42,Dr. Patel,2025-06-02,Manipal Hospital,75,Female,Patient_417,Pune,9611828993,Pathology,Completed,2025-09-28,0
+13,418,CT Scan,127.32,Dr. Lee,2025-02-11,AIIMS,48,Female,Patient_418,Bangalore,9305160735,Neurology,Pending,2025-09-10,1
+60,419,CT Scan,131.65,Dr. Lee,2025-03-08,Max Hospital,21,Other,Patient_419,Chennai,9227358728,Radiology,Pending,2023-06-27,1
+7,420,Urine Test,67.65,Dr. Smith,2025-04-08,Manipal Hospital,59,Male,Patient_420,Pune,9735606494,Cardiology,Completed,2025-02-21,0
+57,421,Blood Test,170.34,Dr. Smith,2025-06-02,Fortis Healthcare,30,Other,Patient_421,Kolkata,9784059774,Orthopedics,Pending,2024-10-05,1
+36,422,Ultrasound,33.44,Dr. Patel,2025-02-24,Max Hospital,29,Male,Patient_422,Pune,9162179592,Radiology,Pending,2024-02-23,0
+45,423,MRI,85.0,Dr. Patel,2025-01-14,AIIMS,51,Other,Patient_423,Kolkata,9196288054,Radiology,Completed,2025-06-13,0
+20,424,CT Scan,176.99,Dr. Patel,2025-02-06,Apollo Hospital,79,Male,Patient_424,Kolkata,9409838813,Pathology,Completed,2023-07-06,1
+65,425,Ultrasound,53.41,Dr. Lee,2025-01-18,Manipal Hospital,49,Male,Patient_425,Hyderabad,9982440231,Orthopedics,Completed,2025-09-22,0
+8,426,MRI,169.58,Dr. Lee,2025-01-12,Apollo Hospital,73,Male,Patient_426,Hyderabad,9866194834,Cardiology,Pending,2025-03-17,1
+16,427,CT Scan,54.35,Dr. Johnson,2025-06-25,Max Hospital,20,Female,Patient_427,Bangalore,9836174587,Oncology,Completed,2022-10-05,0
+14,428,MRI,42.3,Dr. Lee,2025-06-29,Manipal Hospital,71,Other,Patient_428,Chennai,9208973494,Pediatrics,Completed,2023-03-06,0
+76,429,Ultrasound,30.04,Dr. Johnson,2025-01-11,Fortis Healthcare,51,Female,Patient_429,Pune,9880188521,Radiology,Completed,2024-09-09,0
+87,430,MRI,187.88,Dr. Smith,2025-03-08,Fortis Healthcare,72,Other,Patient_430,Bangalore,9512885302,Oncology,Completed,2023-08-31,1
+15,431,Ultrasound,127.18,Dr. Johnson,2025-02-11,Fortis Healthcare,21,Other,Patient_431,Bangalore,9445722679,Radiology,Completed,2024-10-05,1
+92,432,Blood Test,189.8,Dr. Lee,2025-06-09,Medanta,41,Other,Patient_432,Mumbai,9500585516,Pathology,Completed,2024-05-18,1
+98,433,X-Ray,86.26,Dr. Lee,2025-04-30,Manipal Hospital,51,Male,Patient_433,Bangalore,9546437951,Oncology,Pending,2023-02-04,0
+66,434,MRI,57.35,Dr. Patel,2025-05-20,Manipal Hospital,34,Female,Patient_434,Bangalore,9389412532,Cardiology,Pending,2024-03-14,0
+32,435,Urine Test,184.53,Dr. Smith,2025-06-03,Medanta,78,Female,Patient_435,Mumbai,9287689655,Pathology,Completed,2024-03-05,1
+87,436,MRI,187.88,Dr. Smith,2025-03-08,Max Hospital,24,Other,Patient_436,Chennai,9503761388,Radiology,Completed,2022-04-16,1
+63,437,Urine Test,187.18,Dr. Smith,2025-04-28,Fortis Healthcare,39,Male,Patient_437,Hyderabad,9443838353,Radiology,Pending,2025-08-06,1
+86,438,Urine Test,56.19,Dr. Patel,2025-06-23,Fortis Healthcare,20,Other,Patient_438,Mumbai,9155342709,Neurology,Completed,2023-01-13,0
+51,439,CT Scan,97.39,Dr. Johnson,2025-04-13,AIIMS,44,Other,Patient_439,Chennai,9817046120,Orthopedics,Completed,2022-12-25,0
+25,440,CT Scan,76.63,Dr. Patel,2025-05-16,Fortis Healthcare,70,Other,Patient_440,Kolkata,9650864120,Pediatrics,Completed,2024-02-20,0
+58,441,ECG,172.43,Dr. Patel,2025-01-31,AIIMS,73,Female,Patient_441,Delhi,9914942355,Cardiology,Pending,2022-12-22,1
+63,442,Urine Test,187.18,Dr. Smith,2025-04-28,Apollo Hospital,28,Other,Patient_442,Kolkata,9268505231,Pathology,Completed,2023-09-19,1
+62,443,X-Ray,134.5,Dr. Lee,2025-04-28,Medanta,42,Female,Patient_443,Bangalore,9587611871,Neurology,Completed,2025-03-28,1
+22,444,Ultrasound,80.18,Dr. Johnson,2025-02-05,AIIMS,45,Male,Patient_444,Bangalore,9835187126,Neurology,Pending,2024-05-13,0
+58,445,ECG,172.43,Dr. Patel,2025-01-31,Max Hospital,24,Female,Patient_445,Bangalore,9334387133,Cardiology,Pending,2024-11-30,1
+58,446,ECG,172.43,Dr. Patel,2025-01-31,Max Hospital,41,Other,Patient_446,Kolkata,9404073135,Oncology,Pending,2024-11-29,1
+86,447,Urine Test,56.19,Dr. Patel,2025-06-23,Apollo Hospital,52,Other,Patient_447,Delhi,9754914596,Cardiology,Completed,2023-09-24,0
+49,448,Urine Test,172.34,Dr. Smith,2025-01-13,Max Hospital,58,Male,Patient_448,Chennai,9343879768,Orthopedics,Pending,2022-11-21,1
+52,449,X-Ray,76.11,Dr. Patel,2025-03-09,Medanta,45,Other,Patient_449,Pune,9732893784,Pediatrics,Pending,2022-11-06,0
+42,450,Urine Test,66.42,Dr. Johnson,2025-03-13,Fortis Healthcare,69,Other,Patient_450,Delhi,9275856279,Pathology,Completed,2025-07-12,0
+70,451,Ultrasound,42.52,Dr. Lee,2025-02-22,Apollo Hospital,75,Female,Patient_451,Chennai,9401611594,Pediatrics,Pending,2022-06-15,0
+15,452,Ultrasound,127.18,Dr. Johnson,2025-02-11,Max Hospital,36,Female,Patient_452,Delhi,9849781015,Pediatrics,Completed,2025-02-18,1
+54,453,MRI,43.93,Dr. Smith,2025-05-29,AIIMS,49,Male,Patient_453,Kolkata,9162547043,Radiology,Pending,2022-08-09,0
+60,454,CT Scan,131.65,Dr. Lee,2025-03-08,Max Hospital,78,Male,Patient_454,Chennai,9563742468,Neurology,Completed,2022-08-13,1
+97,455,MRI,81.51,Dr. Smith,2025-03-19,Medanta,55,Female,Patient_455,Chennai,9455299417,Neurology,Pending,2023-08-03,0
+8,456,MRI,169.58,Dr. Lee,2025-01-12,Manipal Hospital,23,Male,Patient_456,Mumbai,9572489732,Pathology,Pending,2025-06-04,1
+53,457,MRI,84.89,Dr. Patel,2025-02-09,Medanta,71,Other,Patient_457,Kolkata,9203227988,Pathology,Completed,2022-10-04,0
+60,458,CT Scan,131.65,Dr. Lee,2025-03-08,Max Hospital,74,Female,Patient_458,Delhi,9652354618,Neurology,Completed,2025-02-21,1
+5,459,CT Scan,44.48,Dr. Lee,2025-01-02,AIIMS,22,Female,Patient_459,Pune,9875817520,Oncology,Pending,2023-09-10,0
+68,460,MRI,186.39,Dr. Smith,2025-02-04,Manipal Hospital,37,Female,Patient_460,Pune,9756029279,Neurology,Pending,2022-07-08,1
+6,461,ECG,84.81,Dr. Lee,2025-02-09,Fortis Healthcare,31,Female,Patient_461,Hyderabad,9282978460,Pediatrics,Completed,2024-01-01,0
+96,462,ECG,149.75,Dr. Johnson,2025-06-07,Fortis Healthcare,22,Other,Patient_462,Delhi,9495497989,Oncology,Pending,2025-01-03,1
+94,463,ECG,81.97,Dr. Patel,2025-06-28,Apollo Hospital,45,Other,Patient_463,Bangalore,9327142401,Radiology,Pending,2023-08-24,0
+47,464,X-Ray,38.45,Dr. Patel,2025-02-05,AIIMS,50,Female,Patient_464,Chennai,9943282731,Oncology,Pending,2023-08-31,0
+99,465,CT Scan,135.29,Dr. Patel,2025-02-13,Medanta,43,Male,Patient_465,Chennai,9693640209,Pediatrics,Pending,2022-08-30,1
+55,466,Blood Test,149.72,Dr. Smith,2025-01-13,Apollo Hospital,77,Female,Patient_466,Pune,9211691474,Cardiology,Pending,2025-03-14,1
+40,467,Ultrasound,111.01,Dr. Johnson,2025-01-02,Medanta,65,Female,Patient_467,Delhi,9995040788,Oncology,Completed,2022-12-09,1
+52,468,X-Ray,76.11,Dr. Patel,2025-03-09,Apollo Hospital,27,Female,Patient_468,Hyderabad,9578407482,Orthopedics,Completed,2024-09-25,0
+16,469,CT Scan,54.35,Dr. Johnson,2025-06-25,Medanta,70,Female,Patient_469,Kolkata,9424262924,Neurology,Pending,2022-08-30,0
+13,470,CT Scan,127.32,Dr. Lee,2025-02-11,Fortis Healthcare,38,Male,Patient_470,Chennai,9746942280,Neurology,Completed,2023-06-14,1
+30,471,Ultrasound,182.57,Dr. Lee,2025-06-13,Fortis Healthcare,39,Male,Patient_471,Bangalore,9725888940,Cardiology,Pending,2022-04-26,1
+19,472,Ultrasound,175.34,Dr. Lee,2025-02-24,Apollo Hospital,56,Female,Patient_472,Hyderabad,9597717079,Orthopedics,Completed,2024-05-29,1
+17,473,Urine Test,153.78,Dr. Smith,2025-02-28,Manipal Hospital,58,Other,Patient_473,Hyderabad,9816735128,Orthopedics,Completed,2023-01-31,1
+63,474,Urine Test,187.18,Dr. Smith,2025-04-28,Medanta,76,Male,Patient_474,Hyderabad,9501720677,Pathology,Completed,2025-07-20,1
+19,475,Ultrasound,175.34,Dr. Lee,2025-02-24,Manipal Hospital,22,Male,Patient_475,Mumbai,9874475086,Cardiology,Pending,2023-05-03,1
+92,476,Blood Test,189.8,Dr. Lee,2025-06-09,AIIMS,33,Male,Patient_476,Pune,9353248281,Radiology,Pending,2024-03-18,1
+58,477,ECG,172.43,Dr. Patel,2025-01-31,AIIMS,56,Male,Patient_477,Delhi,9552915697,Orthopedics,Pending,2024-11-07,1
+55,478,Blood Test,149.72,Dr. Smith,2025-01-13,Medanta,28,Male,Patient_478,Mumbai,9444987426,Orthopedics,Completed,2022-11-12,1
+90,479,Ultrasound,23.57,Dr. Johnson,2025-03-07,AIIMS,62,Female,Patient_479,Hyderabad,9783804535,Pathology,Pending,2023-11-17,0
+90,480,Ultrasound,23.57,Dr. Johnson,2025-03-07,Fortis Healthcare,74,Other,Patient_480,Hyderabad,9438082507,Orthopedics,Completed,2025-08-08,0
+62,481,X-Ray,134.5,Dr. Lee,2025-04-28,Max Hospital,58,Female,Patient_481,Hyderabad,9707743412,Pediatrics,Pending,2025-09-20,1
+23,482,CT Scan,18.64,Dr. Smith,2025-01-29,Apollo Hospital,52,Female,Patient_482,Hyderabad,9586055717,Pediatrics,Pending,2025-04-29,0
+9,483,Ultrasound,25.4,Dr. Patel,2025-01-21,Medanta,35,Female,Patient_483,Delhi,9979503760,Orthopedics,Pending,2024-08-10,0
+12,484,Urine Test,46.94,Dr. Smith,2025-04-08,Fortis Healthcare,75,Male,Patient_484,Kolkata,9733242246,Orthopedics,Pending,2025-01-14,0
+1,485,Blood Test,148.44,Dr. Johnson,2025-02-27,AIIMS,23,Male,Patient_485,Kolkata,9998471362,Radiology,Pending,2025-02-13,1
+58,486,ECG,172.43,Dr. Patel,2025-01-31,Max Hospital,42,Female,Patient_486,Mumbai,9720802132,Radiology,Completed,2023-02-20,1
+1,487,Blood Test,148.44,Dr. Johnson,2025-02-27,Max Hospital,71,Female,Patient_487,Chennai,9679652369,Neurology,Pending,2024-05-18,1
+34,488,Blood Test,48.55,Dr. Smith,2025-01-22,Max Hospital,23,Female,Patient_488,Hyderabad,9425701660,Cardiology,Completed,2025-09-05,0
+96,489,ECG,149.75,Dr. Johnson,2025-06-07,AIIMS,79,Other,Patient_489,Kolkata,9409776627,Pathology,Pending,2023-01-29,1
+48,490,X-Ray,56.07,Dr. Johnson,2025-01-20,Max Hospital,20,Other,Patient_490,Bangalore,9229192280,Neurology,Pending,2023-11-17,0
+89,491,Ultrasound,87.2,Dr. Lee,2025-04-22,Medanta,75,Female,Patient_491,Chennai,9739436538,Cardiology,Completed,2023-12-09,0
+1,492,Blood Test,148.44,Dr. Johnson,2025-02-27,AIIMS,58,Other,Patient_492,Pune,9891644774,Pathology,Pending,2022-04-18,1
+16,493,CT Scan,54.35,Dr. Johnson,2025-06-25,AIIMS,47,Other,Patient_493,Kolkata,9881926284,Oncology,Completed,2022-07-31,0
+61,494,ECG,143.38,Dr. Johnson,2025-03-09,Manipal Hospital,41,Other,Patient_494,Hyderabad,9167102690,Neurology,Pending,2022-12-19,1
+64,495,Ultrasound,199.22,Dr. Smith,2025-05-18,Max Hospital,51,Other,Patient_495,Chennai,9153734360,Cardiology,Pending,2022-03-20,1
+63,496,Urine Test,187.18,Dr. Smith,2025-04-28,Apollo Hospital,23,Other,Patient_496,Delhi,9305645140,Radiology,Completed,2023-04-07,1
+69,497,Blood Test,178.0,Dr. Johnson,2025-03-11,Medanta,44,Female,Patient_497,Delhi,9716051324,Radiology,Pending,2024-10-10,1
+22,498,Ultrasound,80.18,Dr. Johnson,2025-02-05,Manipal Hospital,33,Male,Patient_498,Chennai,9452011867,Pediatrics,Pending,2023-08-29,0
+93,499,ECG,169.68,Dr. Lee,2025-05-10,Manipal Hospital,24,Female,Patient_499,Kolkata,9509626627,Orthopedics,Pending,2022-09-01,1
+67,500,Ultrasound,196.78,Dr. Smith,2025-06-20,Apollo Hospital,60,Other,Patient_500,Pune,9782656743,Oncology,Pending,2022-08-15,1

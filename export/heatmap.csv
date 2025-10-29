@@ -1,0 +1,50 @@
+Department,TestType,AbnormalResult
+Cardiology,Blood Test,0.5
+Cardiology,CT Scan,0.25
+Cardiology,ECG,0.8125
+Cardiology,MRI,0.3333333333333333
+Cardiology,Ultrasound,0.5
+Cardiology,Urine Test,0.2222222222222222
+Cardiology,X-Ray,0.6666666666666666
+Neurology,Blood Test,0.7142857142857143
+Neurology,CT Scan,0.5333333333333333
+Neurology,ECG,0.75
+Neurology,MRI,0.4444444444444444
+Neurology,Ultrasound,0.5
+Neurology,Urine Test,0.375
+Neurology,X-Ray,0.45454545454545453
+Oncology,Blood Test,0.5
+Oncology,CT Scan,0.16666666666666666
+Oncology,ECG,0.5833333333333334
+Oncology,MRI,0.6666666666666666
+Oncology,Ultrasound,0.5
+Oncology,Urine Test,0.1
+Oncology,X-Ray,0.6666666666666666
+Orthopedics,Blood Test,0.5
+Orthopedics,CT Scan,0.45454545454545453
+Orthopedics,ECG,0.5333333333333333
+Orthopedics,MRI,0.14285714285714285
+Orthopedics,Ultrasound,0.4
+Orthopedics,Urine Test,0.5454545454545454
+Orthopedics,X-Ray,0.14285714285714285
+Pathology,Blood Test,0.5
+Pathology,CT Scan,0.42857142857142855
+Pathology,ECG,0.42857142857142855
+Pathology,MRI,0.4117647058823529
+Pathology,Ultrasound,0.47058823529411764
+Pathology,Urine Test,0.5833333333333334
+Pathology,X-Ray,1.0
+Pediatrics,Blood Test,0.75
+Pediatrics,CT Scan,0.5714285714285714
+Pediatrics,ECG,0.5
+Pediatrics,MRI,0.4
+Pediatrics,Ultrasound,0.3333333333333333
+Pediatrics,Urine Test,0.5
+Pediatrics,X-Ray,0.5
+Radiology,Blood Test,0.5714285714285714
+Radiology,CT Scan,0.5555555555555556
+Radiology,ECG,0.46153846153846156
+Radiology,MRI,0.25
+Radiology,Ultrasound,0.21428571428571427
+Radiology,Urine Test,0.6
+Radiology,X-Ray,0.0

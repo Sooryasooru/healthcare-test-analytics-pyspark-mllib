@@ -1,0 +1,501 @@
+ReportID,PatientID,TestType,ResultValue,Doctor,ReportDate,Hospital,Age,Gender
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,Wellness Point,53,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,Green Valley Hospital,44,Male
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,CityCare Hospital,18,Male
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27,Wellness Point,55,Male
+61,7,ECG,143.38,Dr. Johnson,2025-03-09,Wellness Point,40,Male
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30,Green Valley Hospital,23,Other
+83,2,Urine Test,94.4,Dr. Johnson,2025-04-28,CityCare Hospital,69,Female
+87,18,MRI,187.88,Dr. Smith,2025-03-08,CityCare Hospital,75,Female
+75,3,ECG,180.83,Dr. Smith,2025-04-05,Sunrise Medical Center,33,Other
+75,3,ECG,180.83,Dr. Smith,2025-04-05,Green Valley Hospital,34,Female
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,MediLife Clinic,67,Female
+100,3,MRI,103.33,Dr. Lee,2025-01-24,Sunrise Medical Center,41,Female
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Green Valley Hospital,36,Other
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Green Valley Hospital,40,Male
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05,MediLife Clinic,34,Female
+53,15,MRI,84.89,Dr. Patel,2025-02-09,Wellness Point,26,Male
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Green Valley Hospital,61,Male
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,Wellness Point,21,Other
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,Wellness Point,44,Female
+38,13,ECG,130.15,Dr. Patel,2025-05-13,CityCare Hospital,56,Other
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Sunrise Medical Center,63,Other
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18,CityCare Hospital,70,Female
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,MediLife Clinic,60,Male
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30,Wellness Point,48,Other
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,CityCare Hospital,57,Male
+76,19,Ultrasound,30.04,Dr. Johnson,2025-01-11,CityCare Hospital,68,Other
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,47,Female
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05,CityCare Hospital,73,Other
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,MediLife Clinic,68,Male
+49,15,Urine Test,172.34,Dr. Smith,2025-01-13,Green Valley Hospital,64,Male
+91,2,ECG,87.49,Dr. Johnson,2025-04-04,CityCare Hospital,56,Female
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,Green Valley Hospital,50,Female
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,Wellness Point,55,Other
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Sunrise Medical Center,55,Female
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Green Valley Hospital,35,Female
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07,Green Valley Hospital,18,Other
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,CityCare Hospital,36,Other
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Green Valley Hospital,20,Male
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,CityCare Hospital,53,Male
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05,Green Valley Hospital,76,Other
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,MediLife Clinic,45,Male
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,Sunrise Medical Center,75,Other
+55,18,Blood Test,149.72,Dr. Smith,2025-01-13,Green Valley Hospital,38,Male
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18,Sunrise Medical Center,56,Male
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Sunrise Medical Center,37,Male
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,Wellness Point,32,Other
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08,MediLife Clinic,23,Other
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30,CityCare Hospital,69,Other
+73,5,ECG,195.97,Dr. Johnson,2025-04-24,CityCare Hospital,62,Female
+39,15,Blood Test,49.96,Dr. Smith,2025-03-28,MediLife Clinic,54,Female
+18,2,Urine Test,63.43,Dr. Lee,2025-01-17,Wellness Point,62,Female
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16,Wellness Point,21,Female
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,Wellness Point,46,Other
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Sunrise Medical Center,63,Other
+14,12,MRI,42.3,Dr. Lee,2025-06-29,Sunrise Medical Center,30,Female
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,Sunrise Medical Center,63,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Wellness Point,31,Male
+53,15,MRI,84.89,Dr. Patel,2025-02-09,Green Valley Hospital,37,Female
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Sunrise Medical Center,54,Other
+84,12,MRI,164.2,Dr. Johnson,2025-02-27,Wellness Point,61,Female
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Green Valley Hospital,72,Male
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Sunrise Medical Center,32,Other
+71,9,Ultrasound,97.96,Dr. Smith,2025-01-24,Green Valley Hospital,44,Male
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Green Valley Hospital,32,Male
+8,4,MRI,169.58,Dr. Lee,2025-01-12,Wellness Point,38,Other
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05,Sunrise Medical Center,54,Other
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,Green Valley Hospital,60,Female
+78,7,ECG,50.28,Dr. Smith,2025-04-01,MediLife Clinic,53,Female
+81,6,ECG,184.94,Dr. Patel,2025-06-21,CityCare Hospital,72,Male
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24,Green Valley Hospital,22,Other
+50,18,Urine Test,3.44,Dr. Smith,2025-03-02,Wellness Point,26,Other
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16,MediLife Clinic,24,Female
+2,5,ECG,20.95,Dr. Smith,2025-06-01,MediLife Clinic,73,Male
+6,6,ECG,84.81,Dr. Lee,2025-02-09,Wellness Point,55,Female
+54,7,MRI,43.93,Dr. Smith,2025-05-29,MediLife Clinic,23,Female
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16,CityCare Hospital,42,Female
+54,7,MRI,43.93,Dr. Smith,2025-05-29,MediLife Clinic,64,Other
+93,11,ECG,169.68,Dr. Lee,2025-05-10,CityCare Hospital,70,Male
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,MediLife Clinic,30,Other
+18,2,Urine Test,63.43,Dr. Lee,2025-01-17,Wellness Point,75,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Green Valley Hospital,30,Female
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Sunrise Medical Center,71,Male
+34,8,Blood Test,48.55,Dr. Smith,2025-01-22,Green Valley Hospital,30,Male
+74,18,ECG,85.82,Dr. Smith,2025-01-29,MediLife Clinic,32,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Sunrise Medical Center,21,Female
+100,3,MRI,103.33,Dr. Lee,2025-01-24,Wellness Point,18,Other
+14,12,MRI,42.3,Dr. Lee,2025-06-29,Wellness Point,64,Male
+95,10,Ultrasound,25.89,Dr. Patel,2025-06-20,Sunrise Medical Center,61,Male
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,CityCare Hospital,27,Female
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,MediLife Clinic,35,Female
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27,MediLife Clinic,29,Other
+78,7,ECG,50.28,Dr. Smith,2025-04-01,Wellness Point,18,Male
+87,18,MRI,187.88,Dr. Smith,2025-03-08,Sunrise Medical Center,70,Male
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,CityCare Hospital,63,Other
+40,1,Ultrasound,111.01,Dr. Johnson,2025-01-02,Green Valley Hospital,76,Male
+85,1,ECG,39.03,Dr. Lee,2025-03-13,Sunrise Medical Center,70,Male
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07,Wellness Point,48,Male
+82,8,MRI,32.26,Dr. Smith,2025-04-08,CityCare Hospital,50,Other
+53,15,MRI,84.89,Dr. Patel,2025-02-09,Wellness Point,59,Other
+24,5,ECG,32.42,Dr. Patel,2025-06-02,CityCare Hospital,57,Other
+26,9,Ultrasound,172.23,Dr. Smith,2025-06-24,Wellness Point,77,Male
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,CityCare Hospital,34,Male
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Wellness Point,47,Female
+41,3,ECG,126.41,Dr. Johnson,2025-01-18,CityCare Hospital,48,Female
+29,1,ECG,175.23,Dr. Lee,2025-05-09,Wellness Point,25,Male
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,Sunrise Medical Center,71,Female
+45,14,MRI,85.0,Dr. Patel,2025-01-14,Wellness Point,48,Female
+65,7,Ultrasound,53.41,Dr. Lee,2025-01-18,Sunrise Medical Center,65,Other
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,CityCare Hospital,50,Male
+71,9,Ultrasound,97.96,Dr. Smith,2025-01-24,Green Valley Hospital,40,Other
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,CityCare Hospital,30,Female
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,MediLife Clinic,76,Female
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Wellness Point,23,Other
+8,4,MRI,169.58,Dr. Lee,2025-01-12,MediLife Clinic,18,Other
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,MediLife Clinic,51,Male
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,CityCare Hospital,55,Female
+11,7,ECG,14.38,Dr. Johnson,2025-03-16,Sunrise Medical Center,79,Male
+81,6,ECG,184.94,Dr. Patel,2025-06-21,Wellness Point,63,Male
+8,4,MRI,169.58,Dr. Lee,2025-01-12,Wellness Point,67,Male
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,Wellness Point,37,Other
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,CityCare Hospital,67,Female
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Sunrise Medical Center,42,Other
+5,18,CT Scan,44.48,Dr. Lee,2025-01-02,Green Valley Hospital,21,Other
+41,3,ECG,126.41,Dr. Johnson,2025-01-18,Wellness Point,45,Male
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27,CityCare Hospital,18,Female
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08,MediLife Clinic,64,Other
+73,5,ECG,195.97,Dr. Johnson,2025-04-24,MediLife Clinic,48,Male
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27,Wellness Point,50,Male
+12,3,Urine Test,46.94,Dr. Smith,2025-04-08,MediLife Clinic,79,Other
+34,8,Blood Test,48.55,Dr. Smith,2025-01-22,Green Valley Hospital,71,Male
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Wellness Point,38,Female
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,MediLife Clinic,69,Female
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29,Wellness Point,31,Other
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Green Valley Hospital,23,Female
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,CityCare Hospital,72,Male
+37,18,Urine Test,146.12,Dr. Johnson,2025-03-21,MediLife Clinic,36,Other
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,CityCare Hospital,68,Other
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Green Valley Hospital,68,Other
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,MediLife Clinic,32,Male
+91,2,ECG,87.49,Dr. Johnson,2025-04-04,CityCare Hospital,21,Female
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,CityCare Hospital,29,Other
+65,7,Ultrasound,53.41,Dr. Lee,2025-01-18,CityCare Hospital,74,Male
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,CityCare Hospital,54,Other
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05,Sunrise Medical Center,53,Female
+78,7,ECG,50.28,Dr. Smith,2025-04-01,CityCare Hospital,65,Male
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,MediLife Clinic,46,Male
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Green Valley Hospital,33,Female
+5,18,CT Scan,44.48,Dr. Lee,2025-01-02,CityCare Hospital,59,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,MediLife Clinic,78,Female
+14,12,MRI,42.3,Dr. Lee,2025-06-29,Wellness Point,20,Female
+27,4,ECG,177.02,Dr. Lee,2025-06-14,Wellness Point,30,Female
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,Sunrise Medical Center,27,Other
+79,18,Urine Test,81.57,Dr. Johnson,2025-03-02,Green Valley Hospital,35,Other
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,Wellness Point,37,Male
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Wellness Point,51,Male
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,Green Valley Hospital,41,Female
+77,10,MRI,179.85,Dr. Smith,2025-04-02,Wellness Point,47,Female
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,MediLife Clinic,74,Male
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,CityCare Hospital,69,Male
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Sunrise Medical Center,65,Other
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,CityCare Hospital,49,Female
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Green Valley Hospital,38,Female
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16,CityCare Hospital,22,Male
+94,10,ECG,81.97,Dr. Patel,2025-06-28,Wellness Point,58,Female
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29,MediLife Clinic,48,Male
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,MediLife Clinic,73,Other
+43,16,X-Ray,108.08,Dr. Patel,2025-03-04,Green Valley Hospital,19,Other
+29,1,ECG,175.23,Dr. Lee,2025-05-09,MediLife Clinic,44,Other
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24,MediLife Clinic,72,Male
+13,9,CT Scan,127.32,Dr. Lee,2025-02-11,Sunrise Medical Center,31,Male
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Green Valley Hospital,52,Female
+71,9,Ultrasound,97.96,Dr. Smith,2025-01-24,Sunrise Medical Center,76,Other
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,MediLife Clinic,34,Other
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,CityCare Hospital,42,Female
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27,Wellness Point,79,Other
+66,8,MRI,57.35,Dr. Patel,2025-05-20,Sunrise Medical Center,36,Female
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,Green Valley Hospital,50,Male
+45,14,MRI,85.0,Dr. Patel,2025-01-14,MediLife Clinic,53,Male
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Green Valley Hospital,32,Female
+57,17,Blood Test,170.34,Dr. Smith,2025-06-02,Wellness Point,77,Female
+6,6,ECG,84.81,Dr. Lee,2025-02-09,Wellness Point,56,Male
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27,Green Valley Hospital,70,Other
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27,CityCare Hospital,37,Female
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,MediLife Clinic,34,Other
+84,12,MRI,164.2,Dr. Johnson,2025-02-27,MediLife Clinic,71,Other
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,Green Valley Hospital,22,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Sunrise Medical Center,37,Male
+75,3,ECG,180.83,Dr. Smith,2025-04-05,Wellness Point,51,Female
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Sunrise Medical Center,78,Male
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,MediLife Clinic,68,Other
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,CityCare Hospital,57,Male
+97,19,MRI,81.51,Dr. Smith,2025-03-19,MediLife Clinic,43,Other
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,CityCare Hospital,41,Female
+27,4,ECG,177.02,Dr. Lee,2025-06-14,Sunrise Medical Center,56,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Wellness Point,48,Other
+77,10,MRI,179.85,Dr. Smith,2025-04-02,MediLife Clinic,61,Male
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Wellness Point,36,Female
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22,Wellness Point,56,Male
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27,Sunrise Medical Center,67,Male
+27,4,ECG,177.02,Dr. Lee,2025-06-14,Wellness Point,36,Other
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,Green Valley Hospital,22,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Wellness Point,75,Female
+37,18,Urine Test,146.12,Dr. Johnson,2025-03-21,Sunrise Medical Center,26,Female
+97,19,MRI,81.51,Dr. Smith,2025-03-19,Wellness Point,74,Other
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,Wellness Point,20,Male
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Wellness Point,39,Other
+24,5,ECG,32.42,Dr. Patel,2025-06-02,MediLife Clinic,28,Female
+79,18,Urine Test,81.57,Dr. Johnson,2025-03-02,Wellness Point,33,Male
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,Sunrise Medical Center,60,Female
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Sunrise Medical Center,40,Female
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Wellness Point,58,Male
+88,6,Ultrasound,192.53,Dr. Lee,2025-01-10,Sunrise Medical Center,34,Female
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,Sunrise Medical Center,74,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Green Valley Hospital,77,Female
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Green Valley Hospital,49,Male
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,CityCare Hospital,80,Other
+12,3,Urine Test,46.94,Dr. Smith,2025-04-08,Sunrise Medical Center,50,Female
+39,15,Blood Test,49.96,Dr. Smith,2025-03-28,CityCare Hospital,64,Male
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Wellness Point,23,Male
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Wellness Point,64,Other
+56,19,CT Scan,100.82,Dr. Johnson,2025-01-15,Sunrise Medical Center,61,Male
+81,6,ECG,184.94,Dr. Patel,2025-06-21,Green Valley Hospital,25,Other
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,Sunrise Medical Center,70,Other
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Sunrise Medical Center,33,Other
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Green Valley Hospital,36,Female
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Wellness Point,19,Other
+54,7,MRI,43.93,Dr. Smith,2025-05-29,MediLife Clinic,77,Male
+87,18,MRI,187.88,Dr. Smith,2025-03-08,Sunrise Medical Center,59,Female
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,MediLife Clinic,74,Other
+97,19,MRI,81.51,Dr. Smith,2025-03-19,MediLife Clinic,55,Other
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Wellness Point,36,Other
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,MediLife Clinic,37,Male
+2,5,ECG,20.95,Dr. Smith,2025-06-01,MediLife Clinic,20,Other
+53,15,MRI,84.89,Dr. Patel,2025-02-09,Sunrise Medical Center,54,Other
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Green Valley Hospital,31,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Wellness Point,66,Male
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Green Valley Hospital,19,Male
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22,Wellness Point,41,Male
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,MediLife Clinic,26,Female
+68,18,MRI,186.39,Dr. Smith,2025-02-04,Sunrise Medical Center,37,Female
+55,18,Blood Test,149.72,Dr. Smith,2025-01-13,Green Valley Hospital,43,Male
+75,3,ECG,180.83,Dr. Smith,2025-04-05,Wellness Point,58,Male
+56,19,CT Scan,100.82,Dr. Johnson,2025-01-15,CityCare Hospital,63,Male
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28,Wellness Point,72,Other
+38,13,ECG,130.15,Dr. Patel,2025-05-13,MediLife Clinic,35,Other
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Sunrise Medical Center,50,Female
+69,9,Blood Test,178.0,Dr. Johnson,2025-03-11,MediLife Clinic,43,Female
+98,10,X-Ray,86.26,Dr. Lee,2025-04-30,Sunrise Medical Center,40,Female
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22,MediLife Clinic,71,Female
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,Wellness Point,25,Male
+11,7,ECG,14.38,Dr. Johnson,2025-03-16,Wellness Point,56,Other
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25,Sunrise Medical Center,78,Other
+97,19,MRI,81.51,Dr. Smith,2025-03-19,Wellness Point,52,Female
+73,5,ECG,195.97,Dr. Johnson,2025-04-24,CityCare Hospital,24,Male
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,CityCare Hospital,65,Male
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22,Wellness Point,66,Other
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07,Sunrise Medical Center,24,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,CityCare Hospital,69,Female
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,CityCare Hospital,51,Female
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06,Wellness Point,60,Male
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,Sunrise Medical Center,71,Female
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24,Sunrise Medical Center,73,Male
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Wellness Point,37,Other
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,MediLife Clinic,40,Female
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20,Green Valley Hospital,31,Female
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Green Valley Hospital,58,Other
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06,Sunrise Medical Center,27,Male
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Green Valley Hospital,56,Male
+71,9,Ultrasound,97.96,Dr. Smith,2025-01-24,MediLife Clinic,56,Male
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,Sunrise Medical Center,71,Female
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Wellness Point,45,Male
+40,1,Ultrasound,111.01,Dr. Johnson,2025-01-02,MediLife Clinic,50,Male
+39,15,Blood Test,49.96,Dr. Smith,2025-03-28,CityCare Hospital,77,Female
+82,8,MRI,32.26,Dr. Smith,2025-04-08,CityCare Hospital,62,Male
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Sunrise Medical Center,20,Other
+11,7,ECG,14.38,Dr. Johnson,2025-03-16,MediLife Clinic,63,Other
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,CityCare Hospital,33,Female
+57,17,Blood Test,170.34,Dr. Smith,2025-06-02,Wellness Point,65,Male
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,CityCare Hospital,50,Female
+50,18,Urine Test,3.44,Dr. Smith,2025-03-02,CityCare Hospital,36,Female
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29,Green Valley Hospital,74,Female
+31,17,Ultrasound,40.18,Dr. Lee,2025-02-11,MediLife Clinic,30,Male
+94,10,ECG,81.97,Dr. Patel,2025-06-28,CityCare Hospital,56,Other
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,CityCare Hospital,28,Female
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,Wellness Point,41,Female
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08,Green Valley Hospital,21,Other
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25,MediLife Clinic,60,Other
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Green Valley Hospital,60,Female
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Wellness Point,33,Male
+2,5,ECG,20.95,Dr. Smith,2025-06-01,Green Valley Hospital,59,Other
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,MediLife Clinic,57,Male
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,CityCare Hospital,73,Male
+12,3,Urine Test,46.94,Dr. Smith,2025-04-08,Wellness Point,56,Male
+69,9,Blood Test,178.0,Dr. Johnson,2025-03-11,CityCare Hospital,44,Female
+37,18,Urine Test,146.12,Dr. Johnson,2025-03-21,Sunrise Medical Center,72,Other
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Sunrise Medical Center,47,Other
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,MediLife Clinic,49,Male
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,CityCare Hospital,65,Female
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Wellness Point,37,Other
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,CityCare Hospital,47,Other
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07,MediLife Clinic,24,Male
+3,14,Blood Test,6.44,Dr. Johnson,2025-03-01,Green Valley Hospital,50,Male
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06,Green Valley Hospital,34,Female
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Wellness Point,70,Female
+54,7,MRI,43.93,Dr. Smith,2025-05-29,Sunrise Medical Center,31,Other
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Sunrise Medical Center,62,Male
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Sunrise Medical Center,49,Male
+75,3,ECG,180.83,Dr. Smith,2025-04-05,Wellness Point,52,Other
+72,14,Urine Test,55.7,Dr. Smith,2025-03-27,Green Valley Hospital,70,Other
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24,MediLife Clinic,34,Female
+38,13,ECG,130.15,Dr. Patel,2025-05-13,CityCare Hospital,42,Other
+84,12,MRI,164.2,Dr. Johnson,2025-02-27,MediLife Clinic,25,Male
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,Green Valley Hospital,79,Male
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,CityCare Hospital,39,Female
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,CityCare Hospital,71,Female
+25,3,CT Scan,76.63,Dr. Patel,2025-05-16,Green Valley Hospital,77,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,Sunrise Medical Center,72,Other
+18,2,Urine Test,63.43,Dr. Lee,2025-01-17,Sunrise Medical Center,22,Male
+82,8,MRI,32.26,Dr. Smith,2025-04-08,MediLife Clinic,37,Female
+66,8,MRI,57.35,Dr. Patel,2025-05-20,Green Valley Hospital,36,Female
+54,7,MRI,43.93,Dr. Smith,2025-05-29,Wellness Point,72,Other
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,MediLife Clinic,36,Other
+80,6,Urine Test,162.25,Dr. Patel,2025-01-07,Wellness Point,45,Male
+61,7,ECG,143.38,Dr. Johnson,2025-03-09,Wellness Point,73,Female
+41,3,ECG,126.41,Dr. Johnson,2025-01-18,MediLife Clinic,64,Female
+100,3,MRI,103.33,Dr. Lee,2025-01-24,CityCare Hospital,18,Other
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,MediLife Clinic,58,Female
+68,18,MRI,186.39,Dr. Smith,2025-02-04,CityCare Hospital,36,Male
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Green Valley Hospital,27,Other
+14,12,MRI,42.3,Dr. Lee,2025-06-29,CityCare Hospital,42,Female
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30,Wellness Point,78,Other
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,Wellness Point,71,Male
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06,Green Valley Hospital,63,Female
+8,4,MRI,169.58,Dr. Lee,2025-01-12,MediLife Clinic,37,Female
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08,Sunrise Medical Center,77,Female
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20,Wellness Point,46,Male
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28,MediLife Clinic,27,Other
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Sunrise Medical Center,56,Male
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,MediLife Clinic,47,Male
+76,19,Ultrasound,30.04,Dr. Johnson,2025-01-11,CityCare Hospital,48,Other
+59,19,X-Ray,115.99,Dr. Smith,2025-06-08,Sunrise Medical Center,30,Male
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,Green Valley Hospital,52,Male
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05,Green Valley Hospital,27,Male
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,Sunrise Medical Center,54,Other
+38,13,ECG,130.15,Dr. Patel,2025-05-13,Wellness Point,79,Female
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,Wellness Point,73,Other
+54,7,MRI,43.93,Dr. Smith,2025-05-29,Sunrise Medical Center,38,Female
+8,4,MRI,169.58,Dr. Lee,2025-01-12,Green Valley Hospital,77,Female
+27,4,ECG,177.02,Dr. Lee,2025-06-14,MediLife Clinic,39,Male
+27,4,ECG,177.02,Dr. Lee,2025-06-14,Wellness Point,22,Male
+98,10,X-Ray,86.26,Dr. Lee,2025-04-30,MediLife Clinic,77,Male
+21,9,X-Ray,49.7,Dr. Lee,2025-05-30,CityCare Hospital,59,Male
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,MediLife Clinic,18,Other
+97,19,MRI,81.51,Dr. Smith,2025-03-19,MediLife Clinic,52,Female
+28,11,Blood Test,59.05,Dr. Johnson,2025-04-27,CityCare Hospital,69,Other
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18,Wellness Point,23,Other
+97,19,MRI,81.51,Dr. Smith,2025-03-19,Green Valley Hospital,18,Female
+69,9,Blood Test,178.0,Dr. Johnson,2025-03-11,CityCare Hospital,52,Other
+61,7,ECG,143.38,Dr. Johnson,2025-03-09,Green Valley Hospital,65,Female
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,MediLife Clinic,37,Female
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Green Valley Hospital,63,Male
+4,17,Ultrasound,5.79,Dr. Johnson,2025-06-16,MediLife Clinic,45,Female
+35,16,Urine Test,14.31,Dr. Johnson,2025-02-02,Green Valley Hospital,76,Other
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18,Sunrise Medical Center,55,Other
+49,15,Urine Test,172.34,Dr. Smith,2025-01-13,CityCare Hospital,58,Female
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28,Sunrise Medical Center,77,Male
+44,16,Urine Test,81.71,Dr. Smith,2025-01-25,Green Valley Hospital,77,Other
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Green Valley Hospital,74,Male
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,Wellness Point,23,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,MediLife Clinic,47,Other
+46,4,Blood Test,80.82,Dr. Lee,2025-01-28,CityCare Hospital,73,Male
+6,6,ECG,84.81,Dr. Lee,2025-02-09,Wellness Point,19,Female
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,Wellness Point,25,Female
+37,18,Urine Test,146.12,Dr. Johnson,2025-03-21,Sunrise Medical Center,28,Female
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Green Valley Hospital,21,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,Wellness Point,21,Female
+46,4,Blood Test,80.82,Dr. Lee,2025-01-28,CityCare Hospital,74,Female
+53,15,MRI,84.89,Dr. Patel,2025-02-09,Green Valley Hospital,30,Other
+95,10,Ultrasound,25.89,Dr. Patel,2025-06-20,Wellness Point,43,Female
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,Green Valley Hospital,45,Other
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,CityCare Hospital,34,Female
+97,19,MRI,81.51,Dr. Smith,2025-03-19,Wellness Point,58,Other
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,Green Valley Hospital,55,Other
+85,1,ECG,39.03,Dr. Lee,2025-03-13,Sunrise Medical Center,67,Female
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Green Valley Hospital,38,Male
+87,18,MRI,187.88,Dr. Smith,2025-03-08,MediLife Clinic,43,Female
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,CityCare Hospital,58,Male
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20,CityCare Hospital,49,Female
+18,2,Urine Test,63.43,Dr. Lee,2025-01-17,Wellness Point,66,Female
+25,3,CT Scan,76.63,Dr. Patel,2025-05-16,Green Valley Hospital,41,Female
+95,10,Ultrasound,25.89,Dr. Patel,2025-06-20,Green Valley Hospital,73,Male
+54,7,MRI,43.93,Dr. Smith,2025-05-29,MediLife Clinic,73,Male
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,36,Other
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20,Wellness Point,64,Female
+46,4,Blood Test,80.82,Dr. Lee,2025-01-28,Wellness Point,32,Other
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Green Valley Hospital,32,Other
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,MediLife Clinic,80,Female
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05,Sunrise Medical Center,45,Male
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,Wellness Point,45,Female
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29,MediLife Clinic,76,Female
+66,8,MRI,57.35,Dr. Patel,2025-05-20,Green Valley Hospital,60,Other
+27,4,ECG,177.02,Dr. Lee,2025-06-14,Green Valley Hospital,54,Female
+2,5,ECG,20.95,Dr. Smith,2025-06-01,CityCare Hospital,45,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Wellness Point,18,Other
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28,Sunrise Medical Center,63,Other
+33,11,CT Scan,4.39,Dr. Lee,2025-03-20,Wellness Point,40,Other
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,CityCare Hospital,45,Other
+43,16,X-Ray,108.08,Dr. Patel,2025-03-04,MediLife Clinic,44,Female
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,MediLife Clinic,76,Male
+39,15,Blood Test,49.96,Dr. Smith,2025-03-28,Sunrise Medical Center,41,Female
+93,11,ECG,169.68,Dr. Lee,2025-05-10,MediLife Clinic,26,Female
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,MediLife Clinic,45,Other
+26,9,Ultrasound,172.23,Dr. Smith,2025-06-24,CityCare Hospital,24,Female
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,Sunrise Medical Center,31,Male
+50,18,Urine Test,3.44,Dr. Smith,2025-03-02,CityCare Hospital,29,Male
+25,3,CT Scan,76.63,Dr. Patel,2025-05-16,MediLife Clinic,23,Female
+24,5,ECG,32.42,Dr. Patel,2025-06-02,Green Valley Hospital,43,Other
+13,9,CT Scan,127.32,Dr. Lee,2025-02-11,Sunrise Medical Center,70,Male
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,MediLife Clinic,37,Female
+7,7,Urine Test,67.65,Dr. Smith,2025-04-08,Sunrise Medical Center,72,Other
+57,17,Blood Test,170.34,Dr. Smith,2025-06-02,Green Valley Hospital,78,Male
+36,16,Ultrasound,33.44,Dr. Patel,2025-02-24,Sunrise Medical Center,60,Male
+45,14,MRI,85.0,Dr. Patel,2025-01-14,Green Valley Hospital,18,Other
+20,16,CT Scan,176.99,Dr. Patel,2025-02-06,Wellness Point,38,Female
+65,7,Ultrasound,53.41,Dr. Lee,2025-01-18,Wellness Point,38,Male
+8,4,MRI,169.58,Dr. Lee,2025-01-12,Sunrise Medical Center,26,Other
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25,MediLife Clinic,67,Female
+14,12,MRI,42.3,Dr. Lee,2025-06-29,Wellness Point,41,Male
+76,19,Ultrasound,30.04,Dr. Johnson,2025-01-11,Wellness Point,47,Other
+87,18,MRI,187.88,Dr. Smith,2025-03-08,CityCare Hospital,53,Other
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,CityCare Hospital,26,Male
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,MediLife Clinic,21,Female
+98,10,X-Ray,86.26,Dr. Lee,2025-04-30,MediLife Clinic,73,Female
+66,8,MRI,57.35,Dr. Patel,2025-05-20,MediLife Clinic,73,Other
+32,18,Urine Test,184.53,Dr. Smith,2025-06-03,Green Valley Hospital,38,Female
+87,18,MRI,187.88,Dr. Smith,2025-03-08,MediLife Clinic,36,Other
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,CityCare Hospital,48,Female
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,Sunrise Medical Center,41,Other
+51,6,CT Scan,97.39,Dr. Johnson,2025-04-13,MediLife Clinic,29,Female
+25,3,CT Scan,76.63,Dr. Patel,2025-05-16,Sunrise Medical Center,46,Male
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,49,Male
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,Sunrise Medical Center,34,Female
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,MediLife Clinic,60,Other
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05,MediLife Clinic,70,Male
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,47,Female
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,50,Female
+86,3,Urine Test,56.19,Dr. Patel,2025-06-23,MediLife Clinic,67,Other
+49,15,Urine Test,172.34,Dr. Smith,2025-01-13,Wellness Point,42,Female
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,Wellness Point,26,Male
+42,2,Urine Test,66.42,Dr. Johnson,2025-03-13,CityCare Hospital,42,Female
+70,10,Ultrasound,42.52,Dr. Lee,2025-02-22,Wellness Point,65,Other
+15,3,Ultrasound,127.18,Dr. Johnson,2025-02-11,CityCare Hospital,50,Male
+54,7,MRI,43.93,Dr. Smith,2025-05-29,CityCare Hospital,78,Other
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Green Valley Hospital,48,Other
+97,19,MRI,81.51,Dr. Smith,2025-03-19,CityCare Hospital,73,Male
+8,4,MRI,169.58,Dr. Lee,2025-01-12,Green Valley Hospital,54,Male
+53,15,MRI,84.89,Dr. Patel,2025-02-09,CityCare Hospital,35,Male
+60,3,CT Scan,131.65,Dr. Lee,2025-03-08,Green Valley Hospital,66,Other
+5,18,CT Scan,44.48,Dr. Lee,2025-01-02,Green Valley Hospital,52,Female
+68,18,MRI,186.39,Dr. Smith,2025-02-04,Green Valley Hospital,33,Female
+6,6,ECG,84.81,Dr. Lee,2025-02-09,MediLife Clinic,31,Other
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Green Valley Hospital,59,Female
+94,10,ECG,81.97,Dr. Patel,2025-06-28,Green Valley Hospital,53,Male
+47,8,X-Ray,38.45,Dr. Patel,2025-02-05,Green Valley Hospital,76,Male
+99,15,CT Scan,135.29,Dr. Patel,2025-02-13,MediLife Clinic,31,Male
+55,18,Blood Test,149.72,Dr. Smith,2025-01-13,Sunrise Medical Center,75,Other
+40,1,Ultrasound,111.01,Dr. Johnson,2025-01-02,Sunrise Medical Center,49,Female
+52,2,X-Ray,76.11,Dr. Patel,2025-03-09,Sunrise Medical Center,32,Female
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25,Wellness Point,58,Other
+13,9,CT Scan,127.32,Dr. Lee,2025-02-11,Green Valley Hospital,69,Other
+30,6,Ultrasound,182.57,Dr. Lee,2025-06-13,CityCare Hospital,25,Other
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Sunrise Medical Center,70,Female
+17,11,Urine Test,153.78,Dr. Smith,2025-02-28,Wellness Point,72,Male
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,Sunrise Medical Center,52,Other
+19,7,Ultrasound,175.34,Dr. Lee,2025-02-24,Wellness Point,60,Other
+92,14,Blood Test,189.8,Dr. Lee,2025-06-09,Sunrise Medical Center,65,Other
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Wellness Point,57,Male
+55,18,Blood Test,149.72,Dr. Smith,2025-01-13,CityCare Hospital,57,Male
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,Green Valley Hospital,57,Female
+90,20,Ultrasound,23.57,Dr. Johnson,2025-03-07,CityCare Hospital,57,Other
+62,13,X-Ray,134.5,Dr. Lee,2025-04-28,Wellness Point,55,Female
+23,17,CT Scan,18.64,Dr. Smith,2025-01-29,Green Valley Hospital,24,Other
+9,15,Ultrasound,25.4,Dr. Patel,2025-01-21,Green Valley Hospital,55,Male
+12,3,Urine Test,46.94,Dr. Smith,2025-04-08,Sunrise Medical Center,27,Other
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Sunrise Medical Center,52,Female
+58,3,ECG,172.43,Dr. Patel,2025-01-31,Sunrise Medical Center,20,Female
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,Green Valley Hospital,65,Other
+34,8,Blood Test,48.55,Dr. Smith,2025-01-22,CityCare Hospital,21,Male
+96,13,ECG,149.75,Dr. Johnson,2025-06-07,Sunrise Medical Center,80,Other
+48,14,X-Ray,56.07,Dr. Johnson,2025-01-20,Green Valley Hospital,60,Female
+89,4,Ultrasound,87.2,Dr. Lee,2025-04-22,Wellness Point,26,Other
+1,4,Blood Test,148.44,Dr. Johnson,2025-02-27,CityCare Hospital,26,Female
+16,15,CT Scan,54.35,Dr. Johnson,2025-06-25,CityCare Hospital,52,Male
+61,7,ECG,143.38,Dr. Johnson,2025-03-09,Sunrise Medical Center,22,Male
+64,20,Ultrasound,199.22,Dr. Smith,2025-05-18,MediLife Clinic,53,Female
+63,11,Urine Test,187.18,Dr. Smith,2025-04-28,Wellness Point,67,Female
+69,9,Blood Test,178.0,Dr. Johnson,2025-03-11,MediLife Clinic,23,Other
+22,14,Ultrasound,80.18,Dr. Johnson,2025-02-05,MediLife Clinic,40,Other
+93,11,ECG,169.68,Dr. Lee,2025-05-10,Green Valley Hospital,20,Other
+67,10,Ultrasound,196.78,Dr. Smith,2025-06-20,Wellness Point,57,Female
